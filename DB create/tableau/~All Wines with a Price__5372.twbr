@@ -823,7 +823,7 @@
             <column-instance column='[Number of Records]' derivation='Sum' name='[sum:Number of Records:qk]' pivot='key' type='quantitative' />
           </datasource-dependencies>
           <filter class='categorical' column='[federated.02q8pbm1cgztee1gm350800my5iv].[none:country:nk]'>
-            <groupfilter function='member' level='[none:country:nk]' member='&quot;US&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+            <groupfilter function='member' level='[none:country:nk]' member='&quot;France&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
           </filter>
           <slices>
             <column>[federated.02q8pbm1cgztee1gm350800my5iv].[none:country:nk]</column>
@@ -832,8 +832,8 @@
         </view>
         <style>
           <style-rule element='axis'>
-            <encoding attr='space' class='0' field='[federated.02q8pbm1cgztee1gm350800my5iv].[Longitude (generated)]' field-type='quantitative' max='11261569.430567354' min='-26730681.670081887' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
-            <encoding attr='space' class='0' field='[federated.02q8pbm1cgztee1gm350800my5iv].[Latitude (generated)]' field-type='quantitative' max='10222745.818590203' min='-9209355.4110814855' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
+            <encoding attr='space' class='0' field='[federated.02q8pbm1cgztee1gm350800my5iv].[Longitude (generated)]' field-type='quantitative' max='8743097.2616719343' min='-25795313.859152205' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
+            <encoding attr='space' class='0' field='[federated.02q8pbm1cgztee1gm350800my5iv].[Latitude (generated)]' field-type='quantitative' max='9289642.8674662896' min='-8375904.2314368291' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
           </style-rule>
           <style-rule element='mark'>
             <encoding attr='color' field='[federated.02q8pbm1cgztee1gm350800my5iv].[sum:Number of Records:qk]' palette='blue_10_0' type='interpolated' />
@@ -942,7 +942,7 @@
             <column caption='Rating' datatype='integer' name='[rating]' role='measure' type='quantitative' />
           </datasource-dependencies>
           <filter class='categorical' column='[federated.02q8pbm1cgztee1gm350800my5iv].[none:country:nk]'>
-            <groupfilter function='member' level='[none:country:nk]' member='&quot;France&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+            <groupfilter function='level-members' level='[none:country:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
           </filter>
           <slices>
             <column>[federated.02q8pbm1cgztee1gm350800my5iv].[none:country:nk]</column>
@@ -951,8 +951,8 @@
         </view>
         <style>
           <style-rule element='axis'>
-            <encoding attr='space' class='0' field='[federated.02q8pbm1cgztee1gm350800my5iv].[Longitude (generated)]' field-type='quantitative' max='19749414.156622335' min='-19878321.156774938' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
-            <encoding attr='space' class='0' field='[federated.02q8pbm1cgztee1gm350800my5iv].[Latitude (generated)]' field-type='quantitative' max='10230723.512433134' min='-12344710.830026923' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
+            <encoding attr='space' class='0' field='[federated.02q8pbm1cgztee1gm350800my5iv].[Longitude (generated)]' field-type='quantitative' max='21824237.511483256' min='-18301100.625417311' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
+            <encoding attr='space' class='0' field='[federated.02q8pbm1cgztee1gm350800my5iv].[Latitude (generated)]' field-type='quantitative' max='16092969.878085867' min='-4430152.8630599836' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
           </style-rule>
           <style-rule element='mark'>
             <encoding attr='color' field='[federated.02q8pbm1cgztee1gm350800my5iv].[avg:rating:qk]' palette='blue_10_0' type='interpolated' />
@@ -1064,7 +1064,7 @@
       </cards>
       <simple-id uuid='{418C1821-EAA0-49D4-A834-F85AAA8AC406}' />
     </window>
-    <window class='worksheet' maximized='true' name='World Map - # of Reviews'>
+    <window class='worksheet' name='World Map - # of Reviews'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -1114,7 +1114,7 @@
         </edge>
       </cards>
       <viewpoint>
-        <default-map-tool-selection tool='2' />
+        <default-map-tool-selection tool='1' />
       </viewpoint>
       <simple-id uuid='{6B2892A3-BA95-4BB5-8F0C-6861295CEAEC}' />
     </window>
@@ -1146,7 +1146,7 @@
       </viewpoint>
       <simple-id uuid='{A67BCD07-3EAD-466F-98D2-9669498C702C}' />
     </window>
-    <window class='worksheet' name='Sheet 5'>
+    <window class='worksheet' maximized='true' name='Sheet 5'>
       <cards>
         <edge name='left'>
           <strip size='160'>
