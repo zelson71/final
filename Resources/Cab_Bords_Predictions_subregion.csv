@@ -1,0 +1,2185 @@
+rating,subregion,predicted_
+80,Anjou,18.87325287
+81,Anjou,19.63254166
+82,Anjou,22.82968712
+83,Anjou,21.56233978
+84,Anjou,19.32941628
+85,Anjou,12.95589066
+86,Anjou,19.56745911
+87,Anjou,20.04678917
+88,Anjou,32.78009415
+89,Anjou,29.53463936
+90,Anjou,46.04592896
+91,Anjou,34.3003006
+92,Anjou,35.57778931
+93,Anjou,53.40090179
+94,Anjou,78.58319855
+95,Anjou,205.7910767
+96,Anjou,271.414917
+97,Anjou,268.793335
+98,Anjou,250.7724915
+99,Anjou,260.1587524
+100,Anjou,780.9716797
+80,Anjou Villages Brissac,39.48796082
+81,Anjou Villages Brissac,42.39863968
+82,Anjou Villages Brissac,39.18663025
+83,Anjou Villages Brissac,34.02645874
+84,Anjou Villages Brissac,36.01095581
+85,Anjou Villages Brissac,29.77373695
+86,Anjou Villages Brissac,39.64134216
+87,Anjou Villages Brissac,35.37614059
+88,Anjou Villages Brissac,42.9412384
+89,Anjou Villages Brissac,46.89312363
+90,Anjou Villages Brissac,69.46497345
+91,Anjou Villages Brissac,48.95485687
+92,Anjou Villages Brissac,50.64243317
+93,Anjou Villages Brissac,72.07633209
+94,Anjou Villages Brissac,102.8227158
+95,Anjou Villages Brissac,242.6802673
+96,Anjou Villages Brissac,315.5498047
+97,Anjou Villages Brissac,309.8200073
+98,Anjou Villages Brissac,294.4228821
+99,Anjou Villages Brissac,299.3407593
+100,Anjou Villages Brissac,825.9579468
+80,Atlantique,28.1197834
+81,Atlantique,32.08622742
+82,Atlantique,28.56210327
+83,Atlantique,27.87752342
+84,Atlantique,24.57886314
+85,Atlantique,10.40299416
+86,Atlantique,29.14113808
+87,Atlantique,28.9207077
+88,Atlantique,39.75452423
+89,Atlantique,33.57389069
+90,Atlantique,55.73471069
+91,Atlantique,42.21933746
+92,Atlantique,46.54477692
+93,Atlantique,74.77526855
+94,Atlantique,87.04987335
+95,Atlantique,223.6861725
+96,Atlantique,290.4328613
+97,Atlantique,278.8066406
+98,Atlantique,269.8389587
+99,Atlantique,277.7105103
+100,Atlantique,798.7512817
+80,Augusta,39.25055313
+81,Augusta,38.6896286
+82,Augusta,37.85988235
+83,Augusta,42.5173645
+84,Augusta,45.94964981
+85,Augusta,29.06081963
+86,Augusta,45.94483948
+87,Augusta,37.46659088
+88,Augusta,54.37629318
+89,Augusta,45.40394211
+90,Augusta,67.44322205
+91,Augusta,59.54443359
+92,Augusta,61.89308929
+93,Augusta,88.59275055
+94,Augusta,120.723877
+95,Augusta,259.3933716
+96,Augusta,333.5419617
+97,Augusta,327.0770874
+98,Augusta,316.5551147
+99,Augusta,317.3794861
+100,Augusta,846.942749
+80,Bergerac,16.87487221
+81,Bergerac,17.25490379
+82,Bergerac,17.30391121
+83,Bergerac,14.44676018
+84,Bergerac,26.14007378
+85,Bergerac,16.94648552
+86,Bergerac,16.85418129
+87,Bergerac,19.772892
+88,Bergerac,15.46183586
+89,Bergerac,18.63696098
+90,Bergerac,20.80363655
+91,Bergerac,20.30218315
+92,Bergerac,22.80909538
+93,Bergerac,32.10810471
+94,Bergerac,53.67105865
+95,Bergerac,117.9827805
+96,Bergerac,178.2645874
+97,Bergerac,173.0549469
+98,Bergerac,166.0870819
+99,Bergerac,164.0578766
+100,Bergerac,669.9249268
+80,Blaye Côtes de Bordeaux,20.48433113
+81,Blaye Côtes de Bordeaux,14.83592033
+82,Blaye Côtes de Bordeaux,18.98192024
+83,Blaye Côtes de Bordeaux,16.94330025
+84,Blaye Côtes de Bordeaux,21.11677361
+85,Blaye Côtes de Bordeaux,23.52425194
+86,Blaye Côtes de Bordeaux,17.5988369
+87,Blaye Côtes de Bordeaux,17.31662941
+88,Blaye Côtes de Bordeaux,19.49391365
+89,Blaye Côtes de Bordeaux,19.80713463
+90,Blaye Côtes de Bordeaux,25.47534561
+91,Blaye Côtes de Bordeaux,30.5098362
+92,Blaye Côtes de Bordeaux,26.50912666
+93,Blaye Côtes de Bordeaux,30.75435066
+94,Blaye Côtes de Bordeaux,51.83073425
+95,Blaye Côtes de Bordeaux,130.250473
+96,Blaye Côtes de Bordeaux,185.1441956
+97,Blaye Côtes de Bordeaux,181.2837219
+98,Blaye Côtes de Bordeaux,170.9611969
+99,Blaye Côtes de Bordeaux,169.3418427
+100,Blaye Côtes de Bordeaux,672.1588745
+80,Bordeaux,13.69452953
+81,Bordeaux,13.10399914
+82,Bordeaux,14.90272045
+83,Bordeaux,13.77689648
+84,Bordeaux,13.56382561
+85,Bordeaux,13.30322456
+86,Bordeaux,15.63753319
+87,Bordeaux,13.93608284
+88,Bordeaux,14.17601967
+89,Bordeaux,19.13110733
+90,Bordeaux,18.59390831
+91,Bordeaux,19.20867157
+92,Bordeaux,17.83383942
+93,Bordeaux,24.43756676
+94,Bordeaux,38.37753677
+95,Bordeaux,96.91370392
+96,Bordeaux,151.2534332
+97,Bordeaux,144.3693695
+98,Bordeaux,144.3087921
+99,Bordeaux,137.6096954
+100,Bordeaux,629.6763916
+80,Bordeaux Côtes de Francs,23.04540825
+81,Bordeaux Côtes de Francs,28.98096275
+82,Bordeaux Côtes de Francs,26.21487045
+83,Bordeaux Côtes de Francs,30.15433693
+84,Bordeaux Côtes de Francs,19.62958717
+85,Bordeaux Côtes de Francs,21.57811546
+86,Bordeaux Côtes de Francs,27.71158409
+87,Bordeaux Côtes de Francs,23.99110413
+88,Bordeaux Côtes de Francs,38.7025795
+89,Bordeaux Côtes de Francs,18.45534706
+90,Bordeaux Côtes de Francs,50.19372559
+91,Bordeaux Côtes de Francs,36.03692627
+92,Bordeaux Côtes de Francs,36.8295784
+93,Bordeaux Côtes de Francs,53.25786591
+94,Bordeaux Côtes de Francs,81.36129761
+95,Bordeaux Côtes de Francs,213.0633392
+96,Bordeaux Côtes de Francs,285.2666626
+97,Bordeaux Côtes de Francs,275.5140076
+98,Bordeaux Côtes de Francs,260.8215942
+99,Bordeaux Côtes de Francs,266.69104
+100,Bordeaux Côtes de Francs,788.6621704
+80,Bordeaux Clairet,16.87065697
+81,Bordeaux Clairet,11.74761772
+82,Bordeaux Clairet,11.69029617
+83,Bordeaux Clairet,14.31018639
+84,Bordeaux Clairet,11.57071304
+85,Bordeaux Clairet,15.72122955
+86,Bordeaux Clairet,14.49607754
+87,Bordeaux Clairet,15.17770386
+88,Bordeaux Clairet,13.60548782
+89,Bordeaux Clairet,18.61421776
+90,Bordeaux Clairet,27.73169708
+91,Bordeaux Clairet,23.68491936
+92,Bordeaux Clairet,21.43432808
+93,Bordeaux Clairet,33.57716751
+94,Bordeaux Clairet,49.18376923
+95,Bordeaux Clairet,139.0795746
+96,Bordeaux Clairet,202.151062
+97,Bordeaux Clairet,198.9201813
+98,Bordeaux Clairet,188.3821259
+99,Bordeaux Clairet,184.8029327
+100,Bordeaux Clairet,700.2487793
+80,Bordeaux Rosé,32.22560883
+81,Bordeaux Rosé,30.83973503
+82,Bordeaux Rosé,29.98895645
+83,Bordeaux Rosé,33.78626633
+84,Bordeaux Rosé,27.23215294
+85,Bordeaux Rosé,12.90469933
+86,Bordeaux Rosé,30.8876133
+87,Bordeaux Rosé,25.30765724
+88,Bordeaux Rosé,44.04417419
+89,Bordeaux Rosé,33.938591
+90,Bordeaux Rosé,56.57761383
+91,Bordeaux Rosé,37.47335815
+92,Bordeaux Rosé,45.75889969
+93,Bordeaux Rosé,70.70565033
+94,Bordeaux Rosé,88.15200806
+95,Bordeaux Rosé,224.5470734
+96,Bordeaux Rosé,292.5559082
+97,Bordeaux Rosé,287.1792603
+98,Bordeaux Rosé,271.0783081
+99,Bordeaux Rosé,281.0603638
+100,Bordeaux Rosé,799.5903931
+80,Bordeaux Supérieur,14.16044617
+81,Bordeaux Supérieur,16.33174896
+82,Bordeaux Supérieur,19.48089409
+83,Bordeaux Supérieur,17.45450783
+84,Bordeaux Supérieur,17.77229309
+85,Bordeaux Supérieur,18.83668327
+86,Bordeaux Supérieur,18.69436264
+87,Bordeaux Supérieur,16.22327805
+88,Bordeaux Supérieur,18.77752876
+89,Bordeaux Supérieur,18.51330757
+90,Bordeaux Supérieur,21.06018257
+91,Bordeaux Supérieur,25.91588783
+92,Bordeaux Supérieur,28.36650085
+93,Bordeaux Supérieur,27.7180233
+94,Bordeaux Supérieur,45.76515961
+95,Bordeaux Supérieur,108.5345535
+96,Bordeaux Supérieur,162.2392426
+97,Bordeaux Supérieur,156.5077972
+98,Bordeaux Supérieur,158.1447296
+99,Bordeaux Supérieur,144.6231537
+100,Bordeaux Supérieur,638.7991943
+80,Buzet,17.22795296
+81,Buzet,12.82967186
+82,Buzet,12.51940918
+83,Buzet,14.97354603
+84,Buzet,13.05224228
+85,Buzet,12.60026646
+86,Buzet,15.02865791
+87,Buzet,12.61905479
+88,Buzet,14.95652485
+89,Buzet,18.52022552
+90,Buzet,28.4861908
+91,Buzet,24.91499519
+92,Buzet,24.54352379
+93,Buzet,36.2076416
+94,Buzet,47.99621964
+95,Buzet,137.95784
+96,Buzet,199.9858704
+97,Buzet,193.4077301
+98,Buzet,183.9439545
+99,Buzet,186.8951874
+100,Buzet,696.2189941
+80,Côtes de Bergerac,15.23995495
+81,Côtes de Bergerac,14.96978951
+82,Côtes de Bergerac,20.18031883
+83,Côtes de Bergerac,18.83098221
+84,Côtes de Bergerac,18.84465981
+85,Côtes de Bergerac,16.79066658
+86,Côtes de Bergerac,23.78224945
+87,Côtes de Bergerac,13.70790672
+88,Côtes de Bergerac,18.03076744
+89,Côtes de Bergerac,24.52329445
+90,Côtes de Bergerac,25.46021461
+91,Côtes de Bergerac,24.72345734
+92,Côtes de Bergerac,29.23346138
+93,Côtes de Bergerac,43.86261749
+94,Côtes de Bergerac,64.80910492
+95,Côtes de Bergerac,138.9562531
+96,Côtes de Bergerac,206.3412323
+97,Côtes de Bergerac,198.3792572
+98,Côtes de Bergerac,191.0065308
+99,Côtes de Bergerac,189.9143677
+100,Côtes de Bergerac,701.9543457
+80,Côtes de Bordeaux,20.74521065
+81,Côtes de Bordeaux,23.49660492
+82,Côtes de Bordeaux,18.28225136
+83,Côtes de Bordeaux,24.52715492
+84,Côtes de Bordeaux,21.5555954
+85,Côtes de Bordeaux,25.32794762
+86,Côtes de Bordeaux,26.83594704
+87,Côtes de Bordeaux,27.66188431
+88,Côtes de Bordeaux,25.10333252
+89,Côtes de Bordeaux,20.63434029
+90,Côtes de Bordeaux,26.47599983
+91,Côtes de Bordeaux,26.73360443
+92,Côtes de Bordeaux,24.32035255
+93,Côtes de Bordeaux,36.95550919
+94,Côtes de Bordeaux,54.62421417
+95,Côtes de Bordeaux,136.6287689
+96,Côtes de Bordeaux,196.8713837
+97,Côtes de Bordeaux,196.0751495
+98,Côtes de Bordeaux,180.3487701
+99,Côtes de Bordeaux,179.0150909
+100,Côtes de Bordeaux,681.4713745
+80,Côtes de Bourg,17.63465691
+81,Côtes de Bourg,17.46300888
+82,Côtes de Bourg,16.23649788
+83,Côtes de Bourg,21.49893761
+84,Côtes de Bourg,16.70882225
+85,Côtes de Bourg,19.35208511
+86,Côtes de Bourg,19.19589806
+87,Côtes de Bourg,20.38414574
+88,Côtes de Bourg,20.10852814
+89,Côtes de Bourg,18.40505028
+90,Côtes de Bourg,38.56114197
+91,Côtes de Bourg,32.43376923
+92,Côtes de Bourg,31.22420502
+93,Côtes de Bourg,38.33569336
+94,Côtes de Bourg,57.42690277
+95,Côtes de Bourg,155.734726
+96,Côtes de Bourg,216.9729156
+97,Côtes de Bourg,210.7935944
+98,Côtes de Bourg,198.006546
+99,Côtes de Bourg,205.7509155
+100,Côtes de Bourg,714.9796753
+80,Côtes de Castillon,25.56434059
+81,Côtes de Castillon,21.70807266
+82,Côtes de Castillon,19.2352047
+83,Côtes de Castillon,22.9179821
+84,Côtes de Castillon,21.46656227
+85,Côtes de Castillon,21.39596367
+86,Côtes de Castillon,29.38137627
+87,Côtes de Castillon,24.3118763
+88,Côtes de Castillon,37.33439636
+89,Côtes de Castillon,32.71917725
+90,Côtes de Castillon,52.27828979
+91,Côtes de Castillon,39.83483887
+92,Côtes de Castillon,41.90900421
+93,Côtes de Castillon,62.66190338
+94,Côtes de Castillon,81.32871246
+95,Côtes de Castillon,203.7756042
+96,Côtes de Castillon,276.48172
+97,Côtes de Castillon,265.5826111
+98,Côtes de Castillon,255.0509033
+99,Côtes de Castillon,260.4966431
+100,Côtes de Castillon,783.4724731
+80,Côtes de Duras,22.41065598
+81,Côtes de Duras,28.14191437
+82,Côtes de Duras,27.04814339
+83,Côtes de Duras,21.27521706
+84,Côtes de Duras,22.02076721
+85,Côtes de Duras,19.74492645
+86,Côtes de Duras,12.78326511
+87,Côtes de Duras,21.38912582
+88,Côtes de Duras,36.1905365
+89,Côtes de Duras,28.47793388
+90,Côtes de Duras,58.71950531
+91,Côtes de Duras,39.36100769
+92,Côtes de Duras,40.86344147
+93,Côtes de Duras,56.62833405
+94,Côtes de Duras,89.00148773
+95,Côtes de Duras,212.7883148
+96,Côtes de Duras,280.7913513
+97,Côtes de Duras,275.6077271
+98,Côtes de Duras,254.3410797
+99,Côtes de Duras,263.4423828
+100,Côtes de Duras,788.96521
+80,Côtes de Gascogne,23.4336338
+81,Côtes de Gascogne,21.15016747
+82,Côtes de Gascogne,17.80488014
+83,Côtes de Gascogne,23.92862701
+84,Côtes de Gascogne,21.65313911
+85,Côtes de Gascogne,16.42548752
+86,Côtes de Gascogne,23.38846016
+87,Côtes de Gascogne,15.03055668
+88,Côtes de Gascogne,31.08897209
+89,Côtes de Gascogne,25.35795975
+90,Côtes de Gascogne,42.91653442
+91,Côtes de Gascogne,31.22778893
+92,Côtes de Gascogne,34.09781265
+93,Côtes de Gascogne,50.77640152
+94,Côtes de Gascogne,78.58304596
+95,Côtes de Gascogne,198.3164825
+96,Côtes de Gascogne,269.1933594
+97,Côtes de Gascogne,259.8019409
+98,Côtes de Gascogne,246.345993
+99,Côtes de Gascogne,251.9945221
+100,Côtes de Gascogne,775.6590576
+80,Côtes de Provence,25.89751244
+81,Côtes de Provence,33.63076019
+82,Côtes de Provence,35.15455627
+83,Côtes de Provence,35.35568237
+84,Côtes de Provence,33.41264343
+85,Côtes de Provence,25.01150703
+86,Côtes de Provence,34.27505493
+87,Côtes de Provence,20.89090919
+88,Côtes de Provence,45.90378571
+89,Côtes de Provence,31.2407341
+90,Côtes de Provence,60.01268005
+91,Côtes de Provence,44.3045845
+92,Côtes de Provence,45.96913147
+93,Côtes de Provence,68.36695099
+94,Côtes de Provence,93.14643097
+95,Côtes de Provence,232.0302582
+96,Côtes de Provence,303.1199341
+97,Côtes de Provence,295.0393066
+98,Côtes de Provence,283.352356
+99,Côtes de Provence,286.0443726
+100,Côtes de Provence,810.717041
+80,Côtes du Marmandais,17.98661041
+81,Côtes du Marmandais,12.69008064
+82,Côtes du Marmandais,17.83809853
+83,Côtes du Marmandais,15.33651352
+84,Côtes du Marmandais,15.53425026
+85,Côtes du Marmandais,16.53540611
+86,Côtes du Marmandais,16.88736916
+87,Côtes du Marmandais,14.33572674
+88,Côtes du Marmandais,23.48341179
+89,Côtes du Marmandais,18.82716942
+90,Côtes du Marmandais,16.54191589
+91,Côtes du Marmandais,29.70992088
+92,Côtes du Marmandais,29.98483658
+93,Côtes du Marmandais,32.59629822
+94,Côtes du Marmandais,59.49365234
+95,Côtes du Marmandais,136.9393311
+96,Côtes du Marmandais,198.1529083
+97,Côtes du Marmandais,196.5914001
+98,Côtes du Marmandais,187.313736
+99,Côtes du Marmandais,180.9767609
+100,Côtes du Marmandais,694.7595215
+80,Côtes du Tarn,25.33953285
+81,Côtes du Tarn,24.65292168
+82,Côtes du Tarn,17.19163132
+83,Côtes du Tarn,20.42744255
+84,Côtes du Tarn,18.4238987
+85,Côtes du Tarn,16.46513176
+86,Côtes du Tarn,21.79745293
+87,Côtes du Tarn,21.49300957
+88,Côtes du Tarn,18.85466576
+89,Côtes du Tarn,22.87471962
+90,Côtes du Tarn,42.88312912
+91,Côtes du Tarn,33.63811874
+92,Côtes du Tarn,22.226511
+93,Côtes du Tarn,40.37420273
+94,Côtes du Tarn,58.9907074
+95,Côtes du Tarn,177.7401886
+96,Côtes du Tarn,238.3297577
+97,Côtes du Tarn,230.3019562
+98,Côtes du Tarn,213.4803009
+99,Côtes du Tarn,223.8549194
+100,Côtes du Tarn,737.2686768
+80,Cadillac,58.22203064
+81,Cadillac,71.90558624
+82,Cadillac,61.20769882
+83,Cadillac,62.20373535
+84,Cadillac,49.41051483
+85,Cadillac,45.81189728
+86,Cadillac,58.64772797
+87,Cadillac,55.26447678
+88,Cadillac,62.00039673
+89,Cadillac,60.15808487
+90,Cadillac,94.73947906
+91,Cadillac,70.89659119
+92,Cadillac,82.53382111
+93,Cadillac,113.4117355
+94,Cadillac,137.143219
+95,Cadillac,308.2214966
+96,Cadillac,386.7944946
+97,Cadillac,375.4032288
+98,Cadillac,359.536377
+99,Cadillac,370.6526794
+100,Cadillac,900.47229
+80,Cadillac Côtes de Bordeaux,18.55017281
+81,Cadillac Côtes de Bordeaux,13.7531395
+82,Cadillac Côtes de Bordeaux,15.86145115
+83,Cadillac Côtes de Bordeaux,18.70747185
+84,Cadillac Côtes de Bordeaux,15.59575272
+85,Cadillac Côtes de Bordeaux,17.97131538
+86,Cadillac Côtes de Bordeaux,18.2107563
+87,Cadillac Côtes de Bordeaux,16.48607445
+88,Cadillac Côtes de Bordeaux,19.59819221
+89,Cadillac Côtes de Bordeaux,19.8998394
+90,Cadillac Côtes de Bordeaux,26.67080879
+91,Cadillac Côtes de Bordeaux,26.27755165
+92,Cadillac Côtes de Bordeaux,23.19872093
+93,Cadillac Côtes de Bordeaux,29.65319633
+94,Cadillac Côtes de Bordeaux,47.57939148
+95,Cadillac Côtes de Bordeaux,133.9872589
+96,Cadillac Côtes de Bordeaux,194.5453033
+97,Cadillac Côtes de Bordeaux,190.9869537
+98,Cadillac Côtes de Bordeaux,178.6975403
+99,Cadillac Côtes de Bordeaux,180.5665131
+100,Cadillac Côtes de Bordeaux,686.2891235
+80,Cahors,16.56428719
+81,Cahors,28.16598701
+82,Cahors,25.18668747
+83,Cahors,25.02920723
+84,Cahors,27.80487633
+85,Cahors,22.16602325
+86,Cahors,27.45871925
+87,Cahors,21.90691948
+88,Cahors,40.94304276
+89,Cahors,20.35368538
+90,Cahors,47.65537643
+91,Cahors,33.61859894
+92,Cahors,37.27990723
+93,Cahors,56.1166153
+94,Cahors,80.93665314
+95,Cahors,212.3417511
+96,Cahors,279.7158203
+97,Cahors,272.5595703
+98,Cahors,257.6097412
+99,Cahors,264.477478
+100,Cahors,787.6016235
+80,California Other,12.0517931
+81,California Other,11.74980736
+82,California Other,13.10202599
+83,California Other,14.35908127
+84,California Other,12.50530434
+85,California Other,14.56879711
+86,California Other,14.37362671
+87,California Other,15.90743256
+88,California Other,18.54742622
+89,California Other,18.57878304
+90,California Other,25.47316551
+91,California Other,23.58044243
+92,California Other,24.7768116
+93,California Other,39.37582397
+94,California Other,47.60153198
+95,California Other,113.489357
+96,California Other,170.0847473
+97,California Other,166.036972
+98,California Other,167.6483917
+99,California Other,151.1676788
+100,California Other,652.888916
+80,California-Washington,30.08618546
+81,California-Washington,37.91934967
+82,California-Washington,33.44525528
+83,California-Washington,29.59793282
+84,California-Washington,29.81183815
+85,California-Washington,17.2586689
+86,California-Washington,34.22767639
+87,California-Washington,35.55970001
+88,California-Washington,44.90581512
+89,California-Washington,39.74703217
+90,California-Washington,57.89590454
+91,California-Washington,46.23416901
+92,California-Washington,51.15907288
+93,California-Washington,75.42749023
+94,California-Washington,98.47423553
+95,California-Washington,235.2986603
+96,California-Washington,305.2613831
+97,California-Washington,294.6468506
+98,California-Washington,283.8135681
+99,California-Washington,290.4222717
+100,California-Washington,815.4771729
+80,Canon-Fronsac,66.78037262
+81,Canon-Fronsac,84.8210907
+82,Canon-Fronsac,67.05728912
+83,Canon-Fronsac,73.74260712
+84,Canon-Fronsac,41.77184296
+85,Canon-Fronsac,57.73683167
+86,Canon-Fronsac,68.38600922
+87,Canon-Fronsac,55.99727631
+88,Canon-Fronsac,55.25159073
+89,Canon-Fronsac,69.66719818
+90,Canon-Fronsac,90.86184692
+91,Canon-Fronsac,69.97159576
+92,Canon-Fronsac,64.2493515
+93,Canon-Fronsac,91.82339478
+94,Canon-Fronsac,121.8442459
+95,Canon-Fronsac,309.368103
+96,Canon-Fronsac,380.6089478
+97,Canon-Fronsac,367.0417786
+98,Canon-Fronsac,347.5458984
+99,Canon-Fronsac,362.0396729
+100,Canon-Fronsac,885.1386719
+80,Castillon Côtes de Bordeaux,23.83695984
+81,Castillon Côtes de Bordeaux,18.37078667
+82,Castillon Côtes de Bordeaux,13.76706505
+83,Castillon Côtes de Bordeaux,25.64964867
+84,Castillon Côtes de Bordeaux,20.44161797
+85,Castillon Côtes de Bordeaux,21.74137688
+86,Castillon Côtes de Bordeaux,24.34363937
+87,Castillon Côtes de Bordeaux,18.39498711
+88,Castillon Côtes de Bordeaux,20.15966988
+89,Castillon Côtes de Bordeaux,19.24502754
+90,Castillon Côtes de Bordeaux,22.50917435
+91,Castillon Côtes de Bordeaux,31.42752647
+92,Castillon Côtes de Bordeaux,23.80615234
+93,Castillon Côtes de Bordeaux,32.8181839
+94,Castillon Côtes de Bordeaux,55.61748505
+95,Castillon Côtes de Bordeaux,128.4864502
+96,Castillon Côtes de Bordeaux,185.4356995
+97,Castillon Côtes de Bordeaux,180.6712646
+98,Castillon Côtes de Bordeaux,181.8579865
+99,Castillon Côtes de Bordeaux,168.9094238
+100,Castillon Côtes de Bordeaux,674.8544922
+80,Central Coast,19.4794178
+81,Central Coast,14.9431572
+82,Central Coast,29.66124535
+83,Central Coast,22.81915092
+84,Central Coast,27.84988403
+85,Central Coast,28.9492054
+86,Central Coast,32.42224503
+87,Central Coast,30.60964394
+88,Central Coast,35.92137146
+89,Central Coast,37.17371368
+90,Central Coast,39.67145157
+91,Central Coast,43.57115555
+92,Central Coast,55.46789932
+93,Central Coast,59.14943695
+94,Central Coast,79.61774445
+95,Central Coast,92.53102112
+96,Central Coast,161.7301025
+97,Central Coast,148.0998688
+98,Central Coast,182.7952423
+99,Central Coast,166.7637787
+100,Central Coast,617.9083862
+80,Central Valley,16.04808807
+81,Central Valley,20.44747734
+82,Central Valley,18.82241631
+83,Central Valley,26.02236748
+84,Central Valley,16.09046936
+85,Central Valley,23.02017021
+86,Central Valley,22.40099907
+87,Central Valley,22.99845314
+88,Central Valley,22.91613579
+89,Central Valley,16.35196495
+90,Central Valley,26.51412773
+91,Central Valley,21.34692383
+92,Central Valley,26.85047722
+93,Central Valley,44.47871399
+94,Central Valley,49.6619606
+95,Central Valley,144.6674957
+96,Central Valley,204.3147736
+97,Central Valley,197.5726471
+98,Central Valley,186.2662506
+99,Central Valley,186.2662811
+100,Central Valley,690.5524902
+80,Colorado,35.08314133
+81,Colorado,36.90147781
+82,Colorado,34.54914474
+83,Colorado,31.9484272
+84,Colorado,24.54844856
+85,Colorado,28.65431023
+86,Colorado,35.02748489
+87,Colorado,31.73550987
+88,Colorado,49.15791321
+89,Colorado,39.0279808
+90,Colorado,60.63687134
+91,Colorado,44.20633316
+92,Colorado,45.71081543
+93,Colorado,70.42896271
+94,Colorado,101.8341904
+95,Colorado,229.3646393
+96,Colorado,303.0145264
+97,Colorado,299.8335571
+98,Colorado,281.3999023
+99,Colorado,285.2273254
+100,Colorado,811.8806763
+80,Columbia Valley,27.97432137
+81,Columbia Valley,22.16854668
+82,Columbia Valley,28.52235222
+83,Columbia Valley,22.70735359
+84,Columbia Valley,23.55273628
+85,Columbia Valley,30.47892952
+86,Columbia Valley,33.03269958
+87,Columbia Valley,31.6697464
+88,Columbia Valley,35.57432938
+89,Columbia Valley,37.94588089
+90,Columbia Valley,42.06565475
+91,Columbia Valley,47.34024048
+92,Columbia Valley,55.27046585
+93,Columbia Valley,61.10347748
+94,Columbia Valley,74.65581512
+95,Columbia Valley,77.6061554
+96,Columbia Valley,103.6109238
+97,Columbia Valley,105.6164017
+98,Columbia Valley,139.7186127
+99,Columbia Valley,133.7492218
+100,Columbia Valley,486.1081543
+80,Coteaux de Verdon,22.88246727
+81,Coteaux de Verdon,26.41940498
+82,Coteaux de Verdon,27.15102577
+83,Coteaux de Verdon,29.11440849
+84,Coteaux de Verdon,33.77329636
+85,Coteaux de Verdon,25.69909477
+86,Coteaux de Verdon,37.64406204
+87,Coteaux de Verdon,26.55059242
+88,Coteaux de Verdon,39.9054718
+89,Coteaux de Verdon,35.71003342
+90,Coteaux de Verdon,38.95080566
+91,Coteaux de Verdon,43.83441544
+92,Coteaux de Verdon,47.55306244
+93,Coteaux de Verdon,54.53962708
+94,Coteaux de Verdon,91.79788971
+95,Coteaux de Verdon,199.5290833
+96,Coteaux de Verdon,269.1037598
+97,Coteaux de Verdon,262.9455261
+98,Coteaux de Verdon,250.4634857
+99,Coteaux de Verdon,255.096283
+100,Coteaux de Verdon,775.6993408
+80,Eagle Foothills,38.53612518
+81,Eagle Foothills,42.32962036
+82,Eagle Foothills,37.29171753
+83,Eagle Foothills,41.497509
+84,Eagle Foothills,36.57645798
+85,Eagle Foothills,35.16312408
+86,Eagle Foothills,42.3725853
+87,Eagle Foothills,38.93048859
+88,Eagle Foothills,57.66035461
+89,Eagle Foothills,49.70983887
+90,Eagle Foothills,73.08435822
+91,Eagle Foothills,58.11096573
+92,Eagle Foothills,65.11083984
+93,Eagle Foothills,85.21608734
+94,Eagle Foothills,113.9074173
+95,Eagle Foothills,266.1748657
+96,Eagle Foothills,341.4526978
+97,Eagle Foothills,329.5982361
+98,Eagle Foothills,316.7243042
+99,Eagle Foothills,325.3487549
+100,Eagle Foothills,850.8572998
+80,Finger Lakes,19.44227028
+81,Finger Lakes,23.51611328
+82,Finger Lakes,19.92609024
+83,Finger Lakes,21.98810768
+84,Finger Lakes,26.61295509
+85,Finger Lakes,24.89049721
+86,Finger Lakes,29.61644173
+87,Finger Lakes,29.02700615
+88,Finger Lakes,27.0085659
+89,Finger Lakes,28.40354919
+90,Finger Lakes,42.82835388
+91,Finger Lakes,31.04704285
+92,Finger Lakes,33.57607269
+93,Finger Lakes,45.05371857
+94,Finger Lakes,55.59958649
+95,Finger Lakes,148.2391815
+96,Finger Lakes,213.8169556
+97,Finger Lakes,206.5636444
+98,Finger Lakes,194.1806183
+99,Finger Lakes,193.5608215
+100,Finger Lakes,703.364502
+80,Francs Côtes de Bordeaux,14.1470871
+81,Francs Côtes de Bordeaux,14.41067886
+82,Francs Côtes de Bordeaux,17.74545479
+83,Francs Côtes de Bordeaux,18.49843025
+84,Francs Côtes de Bordeaux,19.86678123
+85,Francs Côtes de Bordeaux,16.17186356
+86,Francs Côtes de Bordeaux,20.23379898
+87,Francs Côtes de Bordeaux,11.65549088
+88,Francs Côtes de Bordeaux,25.11806297
+89,Francs Côtes de Bordeaux,15.6808939
+90,Francs Côtes de Bordeaux,32.66009903
+91,Francs Côtes de Bordeaux,20.20624161
+92,Francs Côtes de Bordeaux,25.36817741
+93,Francs Côtes de Bordeaux,38.10883331
+94,Francs Côtes de Bordeaux,57.96404266
+95,Francs Côtes de Bordeaux,156.3050995
+96,Francs Côtes de Bordeaux,226.1350555
+97,Francs Côtes de Bordeaux,220.2785797
+98,Francs Côtes de Bordeaux,207.5506744
+99,Francs Côtes de Bordeaux,203.4007721
+100,Francs Côtes de Bordeaux,724.4560547
+80,Fronsac,22.31540108
+81,Fronsac,15.65232754
+82,Fronsac,20.47260094
+83,Fronsac,24.78407097
+84,Fronsac,26.2383709
+85,Fronsac,21.10868073
+86,Fronsac,30.45931244
+87,Fronsac,23.6252079
+88,Fronsac,22.5368557
+89,Fronsac,33.59228134
+90,Fronsac,32.50973511
+91,Fronsac,28.07243538
+92,Fronsac,28.76802635
+93,Fronsac,44.03869629
+94,Fronsac,62.9659462
+95,Fronsac,142.8565521
+96,Fronsac,205.4702911
+97,Fronsac,202.2993927
+98,Fronsac,187.3018951
+99,Fronsac,185.5769806
+100,Fronsac,697.0113525
+80,Grand Valley,40.88954163
+81,Grand Valley,41.13886261
+82,Grand Valley,30.66174889
+83,Grand Valley,27.43533707
+84,Grand Valley,30.9300499
+85,Grand Valley,21.59425926
+86,Grand Valley,50.99311066
+87,Grand Valley,35.55752945
+88,Grand Valley,31.43258095
+89,Grand Valley,34.62665176
+90,Grand Valley,67.93079376
+91,Grand Valley,40.87093735
+92,Grand Valley,41.28710938
+93,Grand Valley,74.41284943
+94,Grand Valley,90.06443024
+95,Grand Valley,220.2382355
+96,Grand Valley,288.7460327
+97,Grand Valley,273.6221313
+98,Grand Valley,272.4489746
+99,Grand Valley,271.8171387
+100,Grand Valley,792.3071899
+80,Graves,17.55352592
+81,Graves,16.38391685
+82,Graves,21.95643044
+83,Graves,17.5749855
+84,Graves,24.53453445
+85,Graves,28.14576149
+86,Graves,21.75338364
+87,Graves,18.98920631
+88,Graves,21.30789566
+89,Graves,23.17918587
+90,Graves,29.17107201
+91,Graves,26.66180611
+92,Graves,30.76636887
+93,Graves,35.25511169
+94,Graves,50.54774475
+95,Graves,120.3187332
+96,Graves,181.7879181
+97,Graves,177.7120514
+98,Graves,164.7047882
+99,Graves,160.1937561
+100,Graves,663.4816895
+80,Haut-Médoc,19.28749275
+81,Haut-Médoc,21.87887573
+82,Haut-Médoc,19.87278557
+83,Haut-Médoc,21.39286613
+84,Haut-Médoc,24.66150475
+85,Haut-Médoc,22.01526833
+86,Haut-Médoc,20.6532917
+87,Haut-Médoc,22.64402008
+88,Haut-Médoc,21.79307747
+89,Haut-Médoc,25.13783073
+90,Haut-Médoc,26.05363083
+91,Haut-Médoc,26.18688583
+92,Haut-Médoc,31.21388435
+93,Haut-Médoc,30.80227661
+94,Haut-Médoc,47.46366119
+95,Haut-Médoc,119.9365311
+96,Haut-Médoc,167.7969971
+97,Haut-Médoc,169.2991028
+98,Haut-Médoc,158.4400024
+99,Haut-Médoc,155.0709076
+100,Haut-Médoc,646.3425293
+80,Idaho,16.8932476
+81,Idaho,23.47121048
+82,Idaho,21.41329384
+83,Idaho,26.22451973
+84,Idaho,16.66005898
+85,Idaho,18.89887619
+86,Idaho,15.81656837
+87,Idaho,19.99572563
+88,Idaho,34.98991394
+89,Idaho,20.4808979
+90,Idaho,48.03148651
+91,Idaho,30.90960121
+92,Idaho,35.48448944
+93,Idaho,46.99003601
+94,Idaho,71.93844604
+95,Idaho,194.4254608
+96,Idaho,266.2536011
+97,Idaho,257.1864014
+98,Idaho,238.1359863
+99,Idaho,250.1980591
+100,Idaho,771.190918
+80,Lake County,30.63022232
+81,Lake County,26.26945305
+82,Lake County,18.99574852
+83,Lake County,29.22493935
+84,Lake County,28.62989616
+85,Lake County,23.65936852
+86,Lake County,35.71143341
+87,Lake County,31.56104088
+88,Lake County,29.52398491
+89,Lake County,35.19950485
+90,Lake County,36.45241547
+91,Lake County,44.50308228
+92,Lake County,35.57196808
+93,Lake County,44.29881668
+94,Lake County,71.32622528
+95,Lake County,149.1877289
+96,Lake County,206.9973297
+97,Lake County,202.8578186
+98,Lake County,199.6192169
+99,Lake County,194.9838715
+100,Lake County,697.7028809
+80,Lake Michigan Shore,144.0478058
+81,Lake Michigan Shore,167.7512054
+82,Lake Michigan Shore,155.1345215
+83,Lake Michigan Shore,142.3022614
+84,Lake Michigan Shore,125.7924118
+85,Lake Michigan Shore,116.7200165
+86,Lake Michigan Shore,147.5747528
+87,Lake Michigan Shore,135.2773438
+88,Lake Michigan Shore,113.6364365
+89,Lake Michigan Shore,117.7961578
+90,Lake Michigan Shore,154.7922363
+91,Lake Michigan Shore,125.2343903
+92,Lake Michigan Shore,137.1724396
+93,Lake Michigan Shore,182.4273987
+94,Lake Michigan Shore,232.1588898
+95,Lake Michigan Shore,420.1082153
+96,Lake Michigan Shore,503.3562012
+97,Lake Michigan Shore,487.8679199
+98,Lake Michigan Shore,476.1555176
+99,Lake Michigan Shore,488.574646
+100,Lake Michigan Shore,1016.663269
+80,Lalande de Pomerol,26.33643913
+81,Lalande de Pomerol,28.65830421
+82,Lalande de Pomerol,32.14023972
+83,Lalande de Pomerol,29.74542809
+84,Lalande de Pomerol,40.46599579
+85,Lalande de Pomerol,26.29383278
+86,Lalande de Pomerol,33.43280029
+87,Lalande de Pomerol,26.04686165
+88,Lalande de Pomerol,28.60059929
+89,Lalande de Pomerol,27.99310303
+90,Lalande de Pomerol,35.58052063
+91,Lalande de Pomerol,34.47094345
+92,Lalande de Pomerol,44.121315
+93,Lalande de Pomerol,47.3826561
+94,Lalande de Pomerol,72.78650665
+95,Lalande de Pomerol,162.9667511
+96,Lalande de Pomerol,234.7426453
+97,Lalande de Pomerol,224.5341949
+98,Lalande de Pomerol,208.2588196
+99,Lalande de Pomerol,211.3425446
+100,Lalande de Pomerol,724.4639893
+80,Languedoc,24.87247276
+81,Languedoc,28.90162849
+82,Languedoc,11.01729393
+83,Languedoc,27.32941246
+84,Languedoc,30.76453209
+85,Languedoc,21.67587471
+86,Languedoc,33.13708115
+87,Languedoc,26.15420723
+88,Languedoc,38.60327911
+89,Languedoc,32.2543602
+90,Languedoc,56.17162323
+91,Languedoc,37.66287994
+92,Languedoc,38.84928894
+93,Languedoc,58.7409668
+94,Languedoc,81.05942535
+95,Languedoc,204.7391357
+96,Languedoc,275.6244812
+97,Languedoc,270.3787537
+98,Languedoc,251.937912
+99,Languedoc,260.4023438
+100,Languedoc,784.8502197
+80,Leelanau Peninsula,73.67643738
+81,Leelanau Peninsula,88.59720612
+82,Leelanau Peninsula,78.08744049
+83,Leelanau Peninsula,70.68647003
+84,Leelanau Peninsula,67.88758087
+85,Leelanau Peninsula,53.26235199
+86,Leelanau Peninsula,66.46556854
+87,Leelanau Peninsula,55.23208618
+88,Leelanau Peninsula,70.10335541
+89,Leelanau Peninsula,67.03192902
+90,Leelanau Peninsula,101.6103134
+91,Leelanau Peninsula,77.24990845
+92,Leelanau Peninsula,92.85005951
+93,Leelanau Peninsula,119.2977524
+94,Leelanau Peninsula,152.0305634
+95,Leelanau Peninsula,324.7528381
+96,Leelanau Peninsula,399.5551453
+97,Leelanau Peninsula,391.3173218
+98,Leelanau Peninsula,374.2363586
+99,Leelanau Peninsula,383.4841919
+100,Leelanau Peninsula,910.6813965
+80,Lewis-Clark Valley (ID),37.80857086
+81,Lewis-Clark Valley (ID),43.14813232
+82,Lewis-Clark Valley (ID),39.15484619
+83,Lewis-Clark Valley (ID),43.11551666
+84,Lewis-Clark Valley (ID),38.80076599
+85,Lewis-Clark Valley (ID),31.07682991
+86,Lewis-Clark Valley (ID),40.20964432
+87,Lewis-Clark Valley (ID),27.1605854
+88,Lewis-Clark Valley (ID),50.4147377
+89,Lewis-Clark Valley (ID),36.66664505
+90,Lewis-Clark Valley (ID),70.96450043
+91,Lewis-Clark Valley (ID),50.49836731
+92,Lewis-Clark Valley (ID),55.50609589
+93,Lewis-Clark Valley (ID),80.57819366
+94,Lewis-Clark Valley (ID),109.5426254
+95,Lewis-Clark Valley (ID),260.7328796
+96,Lewis-Clark Valley (ID),335.84552
+97,Lewis-Clark Valley (ID),324.1513062
+98,Lewis-Clark Valley (ID),310.5387268
+99,Lewis-Clark Valley (ID),320.1310425
+100,Lewis-Clark Valley (ID),845.2406006
+80,Listrac-Médoc,26.22632217
+81,Listrac-Médoc,28.8247776
+82,Listrac-Médoc,22.97334099
+83,Listrac-Médoc,21.76924706
+84,Listrac-Médoc,26.12553787
+85,Listrac-Médoc,25.40986824
+86,Listrac-Médoc,25.3569088
+87,Listrac-Médoc,28.52923775
+88,Listrac-Médoc,22.64801598
+89,Listrac-Médoc,27.31468201
+90,Listrac-Médoc,31.20035362
+91,Listrac-Médoc,28.51441765
+92,Listrac-Médoc,25.65937996
+93,Listrac-Médoc,40.95180511
+94,Listrac-Médoc,54.11660767
+95,Listrac-Médoc,143.2624359
+96,Listrac-Médoc,198.8575897
+97,Listrac-Médoc,196.7344818
+98,Listrac-Médoc,186.1851807
+99,Listrac-Médoc,185.9850922
+100,Listrac-Médoc,689.6046753
+80,Long Island,20.51780128
+81,Long Island,22.79727364
+82,Long Island,43.15431213
+83,Long Island,29.42072868
+84,Long Island,38.45601654
+85,Long Island,31.40768051
+86,Long Island,42.14157104
+87,Long Island,32.63269424
+88,Long Island,42.09682846
+89,Long Island,36.28630066
+90,Long Island,44.01000214
+91,Long Island,31.43708038
+92,Long Island,39.82483673
+93,Long Island,51.36416626
+94,Long Island,77.82541656
+95,Long Island,173.2956848
+96,Long Island,237.0494537
+97,Long Island,227.1229706
+98,Long Island,230.4686127
+99,Long Island,222.10112
+100,Long Island,729.8007813
+80,Lussac Saint-Émilion,29.27385902
+81,Lussac Saint-Émilion,36.57697296
+82,Lussac Saint-Émilion,28.47617722
+83,Lussac Saint-Émilion,47.04533386
+84,Lussac Saint-Émilion,21.57634926
+85,Lussac Saint-Émilion,27.38262367
+86,Lussac Saint-Émilion,30.48219872
+87,Lussac Saint-Émilion,22.48699951
+88,Lussac Saint-Émilion,20.70585823
+89,Lussac Saint-Émilion,21.54364395
+90,Lussac Saint-Émilion,40.61318207
+91,Lussac Saint-Émilion,28.8793354
+92,Lussac Saint-Émilion,32.63738251
+93,Lussac Saint-Émilion,46.26751328
+94,Lussac Saint-Émilion,56.65143585
+95,Lussac Saint-Émilion,173.6353607
+96,Lussac Saint-Émilion,240.6570587
+97,Lussac Saint-Émilion,235.3985138
+98,Lussac Saint-Émilion,214.0411835
+99,Lussac Saint-Émilion,222.8795013
+100,Lussac Saint-Émilion,731.1260376
+80,Médoc,21.27632713
+81,Médoc,30.38538742
+82,Médoc,28.82202339
+83,Médoc,24.37855911
+84,Médoc,21.0900383
+85,Médoc,16.59231758
+86,Médoc,24.19349098
+87,Médoc,20.88833427
+88,Médoc,64.75209045
+89,Médoc,21.80262566
+90,Médoc,35.0382309
+91,Médoc,25.30230522
+92,Médoc,35.83380127
+93,Médoc,47.60338211
+94,Médoc,67.68271637
+95,Médoc,155.6139069
+96,Médoc,210.7031403
+97,Médoc,200.4678192
+98,Médoc,198.1516876
+99,Médoc,191.5106354
+100,Médoc,681.1293945
+80,Margaux,30.63982964
+81,Margaux,30.39494705
+82,Margaux,25.81007576
+83,Margaux,27.05826569
+84,Margaux,30.74308968
+85,Margaux,23.31475639
+86,Margaux,38.87177277
+87,Margaux,31.59412956
+88,Margaux,42.30557251
+89,Margaux,38.01670074
+90,Margaux,53.44530106
+91,Margaux,49.57329559
+92,Margaux,41.25127792
+93,Margaux,50.3806572
+94,Margaux,88.76954651
+95,Margaux,179.945343
+96,Margaux,225.5759888
+97,Margaux,243.3621826
+98,Margaux,229.5167084
+99,Margaux,225.4646912
+100,Margaux,729.9685059
+80,Mendocino County,20.18746758
+81,Mendocino County,17.91806221
+82,Mendocino County,19.9676075
+83,Mendocino County,16.73724365
+84,Mendocino County,22.85275078
+85,Mendocino County,20.42030144
+86,Mendocino County,22.24704933
+87,Mendocino County,21.01946068
+88,Mendocino County,24.91530037
+89,Mendocino County,20.68249321
+90,Mendocino County,26.57383919
+91,Mendocino County,24.23519897
+92,Mendocino County,31.98680687
+93,Mendocino County,36.01512909
+94,Mendocino County,54.56798553
+95,Mendocino County,131.0981293
+96,Mendocino County,202.9993134
+97,Mendocino County,190.1647186
+98,Mendocino County,181.6279144
+99,Mendocino County,179.3836365
+100,Mendocino County,685.4671021
+80,Middleburg,33.37540436
+81,Middleburg,34.4571991
+82,Middleburg,33.35691833
+83,Middleburg,29.49215698
+84,Middleburg,28.21458244
+85,Middleburg,23.82340813
+86,Middleburg,29.11600685
+87,Middleburg,32.29848862
+88,Middleburg,18.28362083
+89,Middleburg,38.37013245
+90,Middleburg,56.46859741
+91,Middleburg,46.73014832
+92,Middleburg,44.56194687
+93,Middleburg,61.99649048
+94,Middleburg,81.3489151
+95,Middleburg,215.5449066
+96,Middleburg,284.2443848
+97,Middleburg,276.2312012
+98,Middleburg,258.2828979
+99,Middleburg,267.6060791
+100,Middleburg,790.0384521
+80,Montagne-Saint-Émilion,16.42089081
+81,Montagne-Saint-Émilion,15.00625229
+82,Montagne-Saint-Émilion,18.54157448
+83,Montagne-Saint-Émilion,16.51963234
+84,Montagne-Saint-Émilion,18.97629356
+85,Montagne-Saint-Émilion,24.71148682
+86,Montagne-Saint-Émilion,18.59235382
+87,Montagne-Saint-Émilion,20.86876869
+88,Montagne-Saint-Émilion,19.91152
+89,Montagne-Saint-Émilion,18.60772896
+90,Montagne-Saint-Émilion,26.55516624
+91,Montagne-Saint-Émilion,29.41404343
+92,Montagne-Saint-Émilion,29.11569405
+93,Montagne-Saint-Émilion,33.24880219
+94,Montagne-Saint-Émilion,58.54567719
+95,Montagne-Saint-Émilion,139.7250671
+96,Montagne-Saint-Émilion,200.9221649
+97,Montagne-Saint-Émilion,198.7696228
+98,Montagne-Saint-Émilion,186.2203827
+99,Montagne-Saint-Émilion,185.9665375
+100,Montagne-Saint-Émilion,699.0059814
+80,Monticello,20.52654076
+81,Monticello,23.42017174
+82,Monticello,18.5749836
+83,Monticello,17.87056923
+84,Monticello,20.72942924
+85,Monticello,16.30907822
+86,Monticello,22.9043541
+87,Monticello,23.98018456
+88,Monticello,27.0774498
+89,Monticello,25.5619297
+90,Monticello,43.18844223
+91,Monticello,34.19487
+92,Monticello,33.20354843
+93,Monticello,46.25644684
+94,Monticello,69.89271545
+95,Monticello,171.0417786
+96,Monticello,234.3115387
+97,Monticello,233.013504
+98,Monticello,217.0611572
+99,Monticello,222.125412
+100,Monticello,739.8074341
+80,Montravel,35.6655159
+81,Montravel,46.23604584
+82,Montravel,47.10807037
+83,Montravel,45.11865997
+84,Montravel,51.74268341
+85,Montravel,37.89894104
+86,Montravel,39.73609924
+87,Montravel,21.27997208
+88,Montravel,41.25898743
+89,Montravel,27.1129055
+90,Montravel,25.44371414
+91,Montravel,25.20535088
+92,Montravel,31.03246307
+93,Montravel,45.48835754
+94,Montravel,68.00331116
+95,Montravel,195.5523376
+96,Montravel,264.2258301
+97,Montravel,257.5692139
+98,Montravel,240.2896423
+99,Montravel,239.6465912
+100,Montravel,760.7307129
+80,Moulis-en-Médoc,24.4496727
+81,Moulis-en-Médoc,29.94380188
+82,Moulis-en-Médoc,24.04191399
+83,Moulis-en-Médoc,23.98193932
+84,Moulis-en-Médoc,28.04774094
+85,Moulis-en-Médoc,26.44413948
+86,Moulis-en-Médoc,21.3765583
+87,Moulis-en-Médoc,21.94925499
+88,Moulis-en-Médoc,31.48252869
+89,Moulis-en-Médoc,23.46156883
+90,Moulis-en-Médoc,42.30247116
+91,Moulis-en-Médoc,25.21386909
+92,Moulis-en-Médoc,26.19703102
+93,Moulis-en-Médoc,40.61196899
+94,Moulis-en-Médoc,57.15817642
+95,Moulis-en-Médoc,175.6100006
+96,Moulis-en-Médoc,230.2494659
+97,Moulis-en-Médoc,221.6499176
+98,Moulis-en-Médoc,215.5147858
+99,Moulis-en-Médoc,213.743927
+100,Moulis-en-Médoc,725.9112549
+80,Napa,45.33776855
+81,Napa,58.35607147
+82,Napa,41.64099121
+83,Napa,39.73549652
+84,Napa,51.66208649
+85,Napa,41.65428925
+86,Napa,56.79155731
+87,Napa,55.85786819
+88,Napa,63.70194244
+89,Napa,61.84967804
+90,Napa,73.63687897
+91,Napa,77.11460114
+92,Napa,81.48871613
+93,Napa,92.93099976
+94,Napa,122.0554352
+95,Napa,140.3099213
+96,Napa,159.5693817
+97,Napa,170.9099274
+98,Napa,213.9733887
+99,Napa,204.8773346
+100,Napa,576.7811279
+80,Napa-Sonoma,35.01558685
+81,Napa-Sonoma,31.98032951
+82,Napa-Sonoma,40.33909607
+83,Napa-Sonoma,25.81191826
+84,Napa-Sonoma,33.04298019
+85,Napa-Sonoma,30.50911903
+86,Napa-Sonoma,25.76590919
+87,Napa-Sonoma,33.44515991
+88,Napa-Sonoma,33.6531601
+89,Napa-Sonoma,38.74724197
+90,Napa-Sonoma,44.41510773
+91,Napa-Sonoma,60.47740173
+92,Napa-Sonoma,67.45522308
+93,Napa-Sonoma,66.13899231
+94,Napa-Sonoma,99.15210724
+95,Napa-Sonoma,129.6229553
+96,Napa-Sonoma,172.0978546
+97,Napa-Sonoma,179.123291
+98,Napa-Sonoma,207.9934387
+99,Napa-Sonoma,186.4783783
+100,Napa-Sonoma,658.6193848
+80,New Jersey,33.82345581
+81,New Jersey,30.39039993
+82,New Jersey,34.20497894
+83,New Jersey,16.83079338
+84,New Jersey,28.27980614
+85,New Jersey,24.33877945
+86,New Jersey,37.75279236
+87,New Jersey,39.21639252
+88,New Jersey,48.09054184
+89,New Jersey,40.84424591
+90,New Jersey,65.46341705
+91,New Jersey,54.64300919
+92,New Jersey,54.57710266
+93,New Jersey,75.91443634
+94,New Jersey,108.4110489
+95,New Jersey,224.9631348
+96,New Jersey,296.8979187
+97,New Jersey,286.637085
+98,New Jersey,281.2460327
+99,New Jersey,279.8891907
+100,New Jersey,805.6606445
+80,New Mexico,29.78854561
+81,New Mexico,25.46678734
+82,New Mexico,32.38485336
+83,New Mexico,11.77308846
+84,New Mexico,23.64139748
+85,New Mexico,24.67775917
+86,New Mexico,24.20830917
+87,New Mexico,27.03691483
+88,New Mexico,42.59780121
+89,New Mexico,31.26435661
+90,New Mexico,51.11523438
+91,New Mexico,46.7750473
+92,New Mexico,46.54964447
+93,New Mexico,60.23348999
+94,New Mexico,92.93598175
+95,New Mexico,196.030838
+96,New Mexico,263.5657654
+97,New Mexico,252.5141754
+98,New Mexico,246.0797729
+99,New Mexico,248.2710876
+100,New Mexico,769.9051514
+80,New York Other,20.46749496
+81,New York Other,16.26250458
+82,New York Other,22.74817848
+83,New York Other,21.90220833
+84,New York Other,20.1707077
+85,New York Other,13.66048717
+86,New York Other,26.21088028
+87,New York Other,20.32914734
+88,New York Other,36.09179688
+89,New York Other,23.40545082
+90,New York Other,23.91855431
+91,New York Other,31.3366375
+92,New York Other,37.48298645
+93,New York Other,48.99690247
+94,New York Other,65.36200714
+95,New York Other,166.2096863
+96,New York Other,230.4020538
+97,New York Other,221.6444092
+98,New York Other,218.950882
+99,New York Other,212.22258
+100,New York Other,725.848938
+80,None,21.9994545
+81,None,22.99113274
+82,None,29.45504189
+83,None,24.84688377
+84,None,23.61910248
+85,None,19.27480125
+86,None,29.32208443
+87,None,17.70190239
+88,None,18.12827873
+89,None,22.63908195
+90,None,31.61436844
+91,None,26.15510559
+92,None,27.49194145
+93,None,42.97275543
+94,None,54.55490875
+95,None,166.1056061
+96,None,231.8997955
+97,None,228.7997589
+98,None,216.3846893
+99,None,217.9247437
+100,None,732.6264648
+80,North Carolina,56.20212555
+81,North Carolina,65.4758606
+82,North Carolina,68.58412933
+83,North Carolina,62.49198151
+84,North Carolina,53.98536301
+85,North Carolina,41.08937073
+86,North Carolina,72.39925385
+87,North Carolina,55.56774902
+88,North Carolina,67.40830231
+89,North Carolina,69.89344025
+90,North Carolina,93.64763641
+91,North Carolina,73.41565704
+92,North Carolina,85.81600189
+93,North Carolina,115.3096695
+94,North Carolina,138.9931793
+95,North Carolina,298.2379456
+96,North Carolina,376.6792908
+97,North Carolina,363.1314087
+98,North Carolina,355.5120239
+99,North Carolina,360.3855896
+100,North Carolina,888.743042
+80,North Coast,17.43472862
+81,North Coast,16.95583916
+82,North Coast,13.2021904
+83,North Coast,18.06380272
+84,North Coast,15.70003319
+85,North Coast,23.18592834
+86,North Coast,24.6942234
+87,North Coast,21.26679802
+88,North Coast,22.37558174
+89,North Coast,17.563591
+90,North Coast,33.28765106
+91,North Coast,27.05501747
+92,North Coast,29.09063911
+93,North Coast,38.71781158
+94,North Coast,51.91968918
+95,North Coast,135.9654236
+96,North Coast,193.2369232
+97,North Coast,181.7959747
+98,North Coast,181.5850677
+99,North Coast,174.5298004
+100,North Coast,682.12323
+80,Ohio,34.76804352
+81,Ohio,43.31669235
+82,Ohio,43.20489883
+83,Ohio,34.55478668
+84,Ohio,35.63074493
+85,Ohio,34.08346558
+86,Ohio,37.61974716
+87,Ohio,39.17256546
+88,Ohio,40.09729385
+89,Ohio,46.69615173
+90,Ohio,66.53236389
+91,Ohio,58.01509094
+92,Ohio,60.936306
+93,Ohio,86.32671356
+94,Ohio,106.164856
+95,Ohio,255.8095856
+96,Ohio,332.4577942
+97,Ohio,321.5846252
+98,Ohio,298.4882202
+99,Ohio,314.4840393
+100,Ohio,842.5643311
+80,Old Mission Peninsula,28.62428093
+81,Old Mission Peninsula,19.72604942
+82,Old Mission Peninsula,36.97091675
+83,Old Mission Peninsula,33.60617065
+84,Old Mission Peninsula,32.48339844
+85,Old Mission Peninsula,30.72253227
+86,Old Mission Peninsula,42.15159607
+87,Old Mission Peninsula,38.417099
+88,Old Mission Peninsula,46.23238373
+89,Old Mission Peninsula,47.2178688
+90,Old Mission Peninsula,61.22992706
+91,Old Mission Peninsula,52.2663765
+92,Old Mission Peninsula,61.16410828
+93,Old Mission Peninsula,73.34068298
+94,Old Mission Peninsula,109.3088379
+95,Old Mission Peninsula,227.6567383
+96,Old Mission Peninsula,303.6715393
+97,Old Mission Peninsula,294.40802
+98,Old Mission Peninsula,285.838501
+99,Old Mission Peninsula,287.114563
+100,Old Mission Peninsula,813.8825073
+80,Oregon Other,32.10914993
+81,Oregon Other,33.24339294
+82,Oregon Other,44.58216858
+83,Oregon Other,31.29363632
+84,Oregon Other,22.65434265
+85,Oregon Other,29.60664177
+86,Oregon Other,33.85681152
+87,Oregon Other,45.12455368
+88,Oregon Other,38.3637085
+89,Oregon Other,38.17420959
+90,Oregon Other,39.19487762
+91,Oregon Other,40.45326996
+92,Oregon Other,46.003685
+93,Oregon Other,54.54964447
+94,Oregon Other,77.49277496
+95,Oregon Other,93.34210205
+96,Oregon Other,140.5692902
+97,Oregon Other,122.4368057
+98,Oregon Other,160.7526855
+99,Oregon Other,139.7190704
+100,Oregon Other,588.3103027
+80,Outer Coastal Plain,27.143116
+81,Outer Coastal Plain,22.44091034
+82,Outer Coastal Plain,23.8693943
+83,Outer Coastal Plain,21.69403839
+84,Outer Coastal Plain,27.91247559
+85,Outer Coastal Plain,24.5915947
+86,Outer Coastal Plain,33.99624634
+87,Outer Coastal Plain,29.11705971
+88,Outer Coastal Plain,40.95749664
+89,Outer Coastal Plain,34.52375031
+90,Outer Coastal Plain,52.60189056
+91,Outer Coastal Plain,44.06157684
+92,Outer Coastal Plain,48.39450836
+93,Outer Coastal Plain,63.4733963
+94,Outer Coastal Plain,96.46789551
+95,Outer Coastal Plain,214.7784271
+96,Outer Coastal Plain,285.9730835
+97,Outer Coastal Plain,280.0227356
+98,Outer Coastal Plain,265.0744324
+99,Outer Coastal Plain,271.8961182
+100,Outer Coastal Plain,798.7647095
+80,Pécharmant,14.32919884
+81,Pécharmant,13.89957047
+82,Pécharmant,13.10774899
+83,Pécharmant,12.55762291
+84,Pécharmant,13.27691936
+85,Pécharmant,13.41369247
+86,Pécharmant,14.59372711
+87,Pécharmant,14.13556004
+88,Pécharmant,25.3079586
+89,Pécharmant,15.53069305
+90,Pécharmant,17.73184395
+91,Pécharmant,23.42996407
+92,Pécharmant,22.09113121
+93,Pécharmant,28.11928368
+94,Pécharmant,47.0927887
+95,Pécharmant,131.0852356
+96,Pécharmant,186.5385284
+97,Pécharmant,182.2536469
+98,Pécharmant,173.878006
+99,Pécharmant,171.4424133
+100,Pécharmant,678.2017822
+80,Pauillac,32.49662781
+81,Pauillac,27.92220497
+82,Pauillac,29.29374123
+83,Pauillac,31.64559364
+84,Pauillac,35.20703125
+85,Pauillac,22.38839912
+86,Pauillac,41.59648132
+87,Pauillac,29.05069542
+88,Pauillac,39.26169205
+89,Pauillac,32.04096222
+90,Pauillac,61.07813263
+91,Pauillac,44.89190292
+92,Pauillac,52.97380829
+93,Pauillac,77.20285797
+94,Pauillac,92.3077774
+95,Pauillac,214.2807007
+96,Pauillac,297.4296265
+97,Pauillac,284.3482666
+98,Pauillac,264.4185181
+99,Pauillac,275.272522
+100,Pauillac,797.0418091
+80,Pays d'Oc,12.19824982
+81,Pays d'Oc,11.69900036
+82,Pays d'Oc,12.13653278
+83,Pays d'Oc,11.89894867
+84,Pays d'Oc,12.2307148
+85,Pays d'Oc,13.38059139
+86,Pays d'Oc,11.28166389
+87,Pays d'Oc,10.97241402
+88,Pays d'Oc,13.71815109
+89,Pays d'Oc,16.78699684
+90,Pays d'Oc,17.87807465
+91,Pays d'Oc,21.77916527
+92,Pays d'Oc,19.5480423
+93,Pays d'Oc,25.56923866
+94,Pays d'Oc,46.15534973
+95,Pays d'Oc,122.8497162
+96,Pays d'Oc,184.9111938
+97,Pays d'Oc,180.1923981
+98,Pays d'Oc,166.8393707
+99,Pays d'Oc,163.6931915
+100,Pays d'Oc,677.2796631
+80,Pennsylvania,21.84546089
+81,Pennsylvania,47.39670181
+82,Pennsylvania,48.50845337
+83,Pennsylvania,53.32995605
+84,Pennsylvania,42.76718903
+85,Pennsylvania,48.65959167
+86,Pennsylvania,44.82488251
+87,Pennsylvania,35.44717026
+88,Pennsylvania,53.66804886
+89,Pennsylvania,44.85170364
+90,Pennsylvania,77.30260468
+91,Pennsylvania,54.64264679
+92,Pennsylvania,64.45638275
+93,Pennsylvania,81.83358002
+94,Pennsylvania,111.5556717
+95,Pennsylvania,254.9285126
+96,Pennsylvania,328.2621155
+97,Pennsylvania,317.5385437
+98,Pennsylvania,301.6594849
+99,Pennsylvania,309.0517578
+100,Pennsylvania,837.44104
+80,Pessac-Léognan,32.83561707
+81,Pessac-Léognan,34.69284439
+82,Pessac-Léognan,40.46755219
+83,Pessac-Léognan,35.31397247
+84,Pessac-Léognan,30.47022629
+85,Pessac-Léognan,33.11817932
+86,Pessac-Léognan,40.1723938
+87,Pessac-Léognan,28.66576385
+88,Pessac-Léognan,40.05059052
+89,Pessac-Léognan,39.8068161
+90,Pessac-Léognan,54.61968231
+91,Pessac-Léognan,37.40835571
+92,Pessac-Léognan,55.36561584
+93,Pessac-Léognan,76.09075165
+94,Pessac-Léognan,91.65860748
+95,Pessac-Léognan,214.8729401
+96,Pessac-Léognan,300.8098755
+97,Pessac-Léognan,298.0682678
+98,Pessac-Léognan,268.6427917
+99,Pessac-Léognan,278.1904907
+100,Pessac-Léognan,801.6032715
+80,Pomerol,302.7000732
+81,Pomerol,350.5892944
+82,Pomerol,314.6357117
+83,Pomerol,308.6707153
+84,Pomerol,262.1765137
+85,Pomerol,253.2601166
+86,Pomerol,280.46875
+87,Pomerol,151.6585388
+88,Pomerol,147.3179779
+89,Pomerol,153.7292175
+90,Pomerol,229.8959808
+91,Pomerol,163.5782318
+92,Pomerol,172.8574066
+93,Pomerol,261.8838196
+94,Pomerol,322.2930603
+95,Pomerol,649.5718994
+96,Pomerol,728.5480347
+97,Pomerol,713.0983887
+98,Pomerol,691.6109619
+99,Pomerol,712.8417969
+100,Pomerol,1245.30603
+80,Premieres Côtes de Blaye,27.57559013
+81,Premieres Côtes de Blaye,32.93128204
+82,Premieres Côtes de Blaye,34.41793823
+83,Premieres Côtes de Blaye,31.78641319
+84,Premieres Côtes de Blaye,23.28772354
+85,Premieres Côtes de Blaye,23.26053619
+86,Premieres Côtes de Blaye,23.28648186
+87,Premieres Côtes de Blaye,29.23316383
+88,Premieres Côtes de Blaye,50.00909424
+89,Premieres Côtes de Blaye,37.7555809
+90,Premieres Côtes de Blaye,38.24510574
+91,Premieres Côtes de Blaye,43.49713135
+92,Premieres Côtes de Blaye,48.0008316
+93,Premieres Côtes de Blaye,57.99710083
+94,Premieres Côtes de Blaye,90.76256561
+95,Premieres Côtes de Blaye,206.4546204
+96,Premieres Côtes de Blaye,277.3691711
+97,Premieres Côtes de Blaye,269.7593994
+98,Premieres Côtes de Blaye,260.4253235
+99,Premieres Côtes de Blaye,260.2530518
+100,Premieres Côtes de Blaye,777.6885986
+80,Premieres Côtes de Bordeaux,13.85513878
+81,Premieres Côtes de Bordeaux,15.56574821
+82,Premieres Côtes de Bordeaux,19.4881916
+83,Premieres Côtes de Bordeaux,26.49483299
+84,Premieres Côtes de Bordeaux,20.95955849
+85,Premieres Côtes de Bordeaux,21.26104927
+86,Premieres Côtes de Bordeaux,18.68872833
+87,Premieres Côtes de Bordeaux,12.90856743
+88,Premieres Côtes de Bordeaux,16.04514122
+89,Premieres Côtes de Bordeaux,18.63506317
+90,Premieres Côtes de Bordeaux,29.72271538
+91,Premieres Côtes de Bordeaux,27.34558105
+92,Premieres Côtes de Bordeaux,28.86560249
+93,Premieres Côtes de Bordeaux,37.26029205
+94,Premieres Côtes de Bordeaux,50.01208496
+95,Premieres Côtes de Bordeaux,151.7644501
+96,Premieres Côtes de Bordeaux,212.6039734
+97,Premieres Côtes de Bordeaux,210.0142365
+98,Premieres Côtes de Bordeaux,199.8344574
+99,Premieres Côtes de Bordeaux,197.5744781
+100,Premieres Côtes de Bordeaux,709.2756348
+80,Puisseguin Saint-Émilion,20.73381996
+81,Puisseguin Saint-Émilion,20.00705528
+82,Puisseguin Saint-Émilion,21.04138756
+83,Puisseguin Saint-Émilion,23.62804413
+84,Puisseguin Saint-Émilion,24.35681725
+85,Puisseguin Saint-Émilion,23.20336151
+86,Puisseguin Saint-Émilion,28.28980446
+87,Puisseguin Saint-Émilion,21.30674934
+88,Puisseguin Saint-Émilion,20.96972084
+89,Puisseguin Saint-Émilion,20.42289352
+90,Puisseguin Saint-Émilion,26.12081718
+91,Puisseguin Saint-Émilion,33.1680069
+92,Puisseguin Saint-Émilion,33.88479996
+93,Puisseguin Saint-Émilion,42.84752655
+94,Puisseguin Saint-Émilion,63.15044403
+95,Puisseguin Saint-Émilion,153.8690948
+96,Puisseguin Saint-Émilion,223.2396393
+97,Puisseguin Saint-Émilion,218.5800018
+98,Puisseguin Saint-Émilion,204.9942169
+99,Puisseguin Saint-Émilion,204.5522003
+100,Puisseguin Saint-Émilion,721.6609497
+80,Saint-Émilion,41.77991104
+81,Saint-Émilion,62.02200317
+82,Saint-Émilion,54.88213348
+83,Saint-Émilion,42.45125961
+84,Saint-Émilion,33.27548218
+85,Saint-Émilion,33.00892258
+86,Saint-Émilion,41.82527542
+87,Saint-Émilion,37.01955795
+88,Saint-Émilion,47.19059753
+89,Saint-Émilion,40.19413757
+90,Saint-Émilion,111.5740738
+91,Saint-Émilion,44.95488358
+92,Saint-Émilion,49.6730957
+93,Saint-Émilion,87.87805176
+94,Saint-Émilion,106.4836807
+95,Saint-Émilion,289.9745178
+96,Saint-Émilion,343.9570923
+97,Saint-Émilion,328.1170959
+98,Saint-Émilion,311.7166138
+99,Saint-Émilion,333.4677734
+100,Saint-Émilion,852.4758911
+80,Sainte-Foy Bordeaux,29.67684937
+81,Sainte-Foy Bordeaux,30.71750832
+82,Sainte-Foy Bordeaux,28.01697159
+83,Sainte-Foy Bordeaux,26.34284019
+84,Sainte-Foy Bordeaux,25.98069382
+85,Sainte-Foy Bordeaux,12.59061718
+86,Sainte-Foy Bordeaux,30.4075985
+87,Sainte-Foy Bordeaux,28.4969368
+88,Sainte-Foy Bordeaux,42.3797226
+89,Sainte-Foy Bordeaux,35.11648941
+90,Sainte-Foy Bordeaux,52.84284592
+91,Sainte-Foy Bordeaux,41.04094696
+92,Sainte-Foy Bordeaux,46.58597565
+93,Sainte-Foy Bordeaux,65.57307434
+94,Sainte-Foy Bordeaux,93.10635376
+95,Sainte-Foy Bordeaux,227.4228973
+96,Sainte-Foy Bordeaux,296.2215576
+97,Sainte-Foy Bordeaux,286.357605
+98,Sainte-Foy Bordeaux,274.1888123
+99,Sainte-Foy Bordeaux,282.3192749
+100,Sainte-Foy Bordeaux,804.6051636
+80,Sainte-Foy Côtes de Bordeaux,29.53781128
+81,Sainte-Foy Côtes de Bordeaux,32.10699463
+82,Sainte-Foy Côtes de Bordeaux,32.15474319
+83,Sainte-Foy Côtes de Bordeaux,28.40920258
+84,Sainte-Foy Côtes de Bordeaux,28.4720974
+85,Sainte-Foy Côtes de Bordeaux,26.37618446
+86,Sainte-Foy Côtes de Bordeaux,31.37892532
+87,Sainte-Foy Côtes de Bordeaux,30.96468925
+88,Sainte-Foy Côtes de Bordeaux,23.40161324
+89,Sainte-Foy Côtes de Bordeaux,35.86777496
+90,Sainte-Foy Côtes de Bordeaux,55.69727325
+91,Sainte-Foy Côtes de Bordeaux,47.49546432
+92,Sainte-Foy Côtes de Bordeaux,45.70051575
+93,Sainte-Foy Côtes de Bordeaux,69.56760406
+94,Sainte-Foy Côtes de Bordeaux,87.08119965
+95,Sainte-Foy Côtes de Bordeaux,207.9684753
+96,Sainte-Foy Côtes de Bordeaux,282.4766846
+97,Sainte-Foy Côtes de Bordeaux,274.0408325
+98,Sainte-Foy Côtes de Bordeaux,263.6720581
+99,Sainte-Foy Côtes de Bordeaux,268.4556885
+100,Sainte-Foy Côtes de Bordeaux,792.0318604
+80,Saint-Estèphe,27.00588799
+81,Saint-Estèphe,29.03421021
+82,Saint-Estèphe,29.38995361
+83,Saint-Estèphe,28.71465111
+84,Saint-Estèphe,25.85371208
+85,Saint-Estèphe,20.16870689
+86,Saint-Estèphe,36.49794769
+87,Saint-Estèphe,28.24235725
+88,Saint-Estèphe,34.97257996
+89,Saint-Estèphe,39.95115662
+90,Saint-Estèphe,36.37543869
+91,Saint-Estèphe,34.87083817
+92,Saint-Estèphe,34.88132477
+93,Saint-Estèphe,40.53677368
+94,Saint-Estèphe,57.85112762
+95,Saint-Estèphe,163.1446533
+96,Saint-Estèphe,210.9378357
+97,Saint-Estèphe,181.9576721
+98,Saint-Estèphe,202.7147675
+99,Saint-Estèphe,195.1105499
+100,Saint-Estèphe,681.6183472
+80,Saint-Georges-Saint-Émilion,29.53735924
+81,Saint-Georges-Saint-Émilion,36.13297272
+82,Saint-Georges-Saint-Émilion,28.12140083
+83,Saint-Georges-Saint-Émilion,37.68355179
+84,Saint-Georges-Saint-Émilion,32.38059616
+85,Saint-Georges-Saint-Émilion,26.66702843
+86,Saint-Georges-Saint-Émilion,33.51238251
+87,Saint-Georges-Saint-Émilion,19.89339256
+88,Saint-Georges-Saint-Émilion,19.35805511
+89,Saint-Georges-Saint-Émilion,30.29755783
+90,Saint-Georges-Saint-Émilion,62.82216644
+91,Saint-Georges-Saint-Émilion,39.00382996
+92,Saint-Georges-Saint-Émilion,41.34458923
+93,Saint-Georges-Saint-Émilion,67.36022949
+94,Saint-Georges-Saint-Émilion,81.60850525
+95,Saint-Georges-Saint-Émilion,221.605835
+96,Saint-Georges-Saint-Émilion,293.1420898
+97,Saint-Georges-Saint-Émilion,286.1382751
+98,Saint-Georges-Saint-Émilion,262.3195801
+99,Saint-Georges-Saint-Émilion,279.2765808
+100,Saint-Georges-Saint-Émilion,798.3318481
+80,Saint-Julien,21.56649208
+81,Saint-Julien,23.02600861
+82,Saint-Julien,22.53227043
+83,Saint-Julien,21.87141037
+84,Saint-Julien,32.95689392
+85,Saint-Julien,23.53328896
+86,Saint-Julien,33.80854034
+87,Saint-Julien,26.15354538
+88,Saint-Julien,39.69253159
+89,Saint-Julien,30.96782494
+90,Saint-Julien,36.25297546
+91,Saint-Julien,28.22237968
+92,Saint-Julien,44.42637634
+93,Saint-Julien,62.44815063
+94,Saint-Julien,57.46284485
+95,Saint-Julien,88.00426483
+96,Saint-Julien,126.0384369
+97,Saint-Julien,128.2674866
+98,Saint-Julien,157.0645599
+99,Saint-Julien,145.0608063
+100,Saint-Julien,540.8933105
+80,Shenandoah Valley,42.5445137
+81,Shenandoah Valley,44.25489044
+82,Shenandoah Valley,43.88964844
+83,Shenandoah Valley,39.64336395
+84,Shenandoah Valley,27.87188911
+85,Shenandoah Valley,31.81243324
+86,Shenandoah Valley,26.02701378
+87,Shenandoah Valley,36.1257019
+88,Shenandoah Valley,42.1968689
+89,Shenandoah Valley,54.031353
+90,Shenandoah Valley,74.17111969
+91,Shenandoah Valley,58.12033081
+92,Shenandoah Valley,62.85360336
+93,Shenandoah Valley,84.90548706
+94,Shenandoah Valley,109.4919968
+95,Shenandoah Valley,251.4157257
+96,Shenandoah Valley,320.1783752
+97,Shenandoah Valley,312.4212036
+98,Shenandoah Valley,294.6911316
+99,Shenandoah Valley,306.8428955
+100,Shenandoah Valley,830.3805542
+80,Sierra Foothills,18.37725258
+81,Sierra Foothills,20.33794022
+82,Sierra Foothills,20.87306023
+83,Sierra Foothills,29.38585854
+84,Sierra Foothills,23.27523613
+85,Sierra Foothills,25.3876133
+86,Sierra Foothills,28.55169678
+87,Sierra Foothills,23.0900383
+88,Sierra Foothills,26.63563156
+89,Sierra Foothills,25.30310822
+90,Sierra Foothills,29.37665749
+91,Sierra Foothills,31.30535126
+92,Sierra Foothills,31.37133026
+93,Sierra Foothills,23.53443909
+94,Sierra Foothills,60.87244797
+95,Sierra Foothills,144.3831635
+96,Sierra Foothills,201.7747803
+97,Sierra Foothills,203.1965637
+98,Sierra Foothills,183.032135
+99,Sierra Foothills,182.6924438
+100,Sierra Foothills,687.00354
+80,Snake River Valley (OR),46.87899399
+81,Snake River Valley (OR),63.31361008
+82,Snake River Valley (OR),60.74412155
+83,Snake River Valley (OR),61.75778961
+84,Snake River Valley (OR),49.75285721
+85,Snake River Valley (OR),39.462677
+86,Snake River Valley (OR),62.02673721
+87,Snake River Valley (OR),48.2862587
+88,Snake River Valley (OR),66.71811676
+89,Snake River Valley (OR),57.93286514
+90,Snake River Valley (OR),89.89286804
+91,Snake River Valley (OR),66.75656891
+92,Snake River Valley (OR),75.12230682
+93,Snake River Valley (OR),98.63252258
+94,Snake River Valley (OR),131.5273285
+95,Snake River Valley (OR),295.5695496
+96,Snake River Valley (OR),366.7312622
+97,Snake River Valley (OR),353.9238892
+98,Snake River Valley (OR),342.3842163
+99,Snake River Valley (OR),353.7055054
+100,Snake River Valley (OR),878.2701416
+80,Sonoma,36.94145966
+81,Sonoma,29.23794746
+82,Sonoma,26.99188423
+83,Sonoma,30.66796303
+84,Sonoma,34.62654114
+85,Sonoma,30.65673447
+86,Sonoma,36.24011612
+87,Sonoma,35.27302551
+88,Sonoma,36.11069489
+89,Sonoma,42.82839203
+90,Sonoma,44.44823837
+91,Sonoma,50.52152252
+92,Sonoma,56.92396545
+93,Sonoma,60.18150711
+94,Sonoma,92.34604645
+95,Sonoma,99.54484558
+96,Sonoma,168.2526245
+97,Sonoma,186.0384369
+98,Sonoma,199.1411285
+99,Sonoma,156.7734375
+100,Sonoma,644.3066406
+80,South Coast,38.98698807
+81,South Coast,65.77075958
+82,South Coast,70.70816803
+83,South Coast,87.20241547
+84,South Coast,50.66066742
+85,South Coast,43.1716156
+86,South Coast,55.22705078
+87,South Coast,43.6823082
+88,South Coast,52.62895203
+89,South Coast,60.5616188
+90,South Coast,67.1074295
+91,South Coast,41.30757141
+92,South Coast,57.65703583
+93,South Coast,66.72943115
+94,South Coast,104.5400238
+95,South Coast,241.1066895
+96,South Coast,309.9958496
+97,South Coast,299.962738
+98,South Coast,282.1800842
+99,South Coast,287.8936768
+100,South Coast,803.2454834
+80,Southern Oregon,28.32588959
+81,Southern Oregon,33.27120972
+82,Southern Oregon,35.98902893
+83,Southern Oregon,29.31765938
+84,Southern Oregon,27.13804054
+85,Southern Oregon,27.82233429
+86,Southern Oregon,32.8204155
+87,Southern Oregon,36.6485672
+88,Southern Oregon,32.18388367
+89,Southern Oregon,29.85892487
+90,Southern Oregon,31.13187981
+91,Southern Oregon,56.68108368
+92,Southern Oregon,49.84874725
+93,Southern Oregon,54.05564117
+94,Southern Oregon,89.24489594
+95,Southern Oregon,175.8825531
+96,Southern Oregon,231.3761444
+97,Southern Oregon,232.2940216
+98,Southern Oregon,233.2796783
+99,Southern Oregon,223.7189789
+100,Southern Oregon,738.4458008
+80,Texas,36.86012268
+81,Texas,37.98522949
+82,Texas,36.97814178
+83,Texas,36.72547913
+84,Texas,27.22288322
+85,Texas,33.92020416
+86,Texas,44.64560699
+87,Texas,34.68582535
+88,Texas,44.32801437
+89,Texas,38.18596649
+90,Texas,64.95633698
+91,Texas,49.90196991
+92,Texas,55.26055908
+93,Texas,71.93468475
+94,Texas,106.4291458
+95,Texas,246.5832672
+96,Texas,318.5637207
+97,Texas,310.2580261
+98,Texas,297.7630615
+99,Texas,300.0686035
+100,Texas,830.2386475
+80,Texas High Plains,55.06588364
+81,Texas High Plains,74.56333923
+82,Texas High Plains,64.34568024
+83,Texas High Plains,64.81174469
+84,Texas High Plains,52.61283875
+85,Texas High Plains,45.47875214
+86,Texas High Plains,61.14888763
+87,Texas High Plains,48.91725159
+88,Texas High Plains,66.38889313
+89,Texas High Plains,60.6869278
+90,Texas High Plains,98.55240631
+91,Texas High Plains,70.86093903
+92,Texas High Plains,78.90239716
+93,Texas High Plains,107.7637253
+94,Texas High Plains,138.5605621
+95,Texas High Plains,321.3914795
+96,Texas High Plains,393.7539063
+97,Texas High Plains,384.1489258
+98,Texas High Plains,365.8787537
+99,Texas High Plains,378.8108826
+100,Texas High Plains,907.9508667
+80,Touraine,30.46658134
+81,Touraine,25.04960823
+82,Touraine,24.06548691
+83,Touraine,23.01464653
+84,Touraine,26.44732094
+85,Touraine,19.87524605
+86,Touraine,25.28589058
+87,Touraine,26.79289436
+88,Touraine,13.44902802
+89,Touraine,32.1486969
+90,Touraine,46.36631012
+91,Touraine,38.5524559
+92,Touraine,35.43315506
+93,Touraine,47.77692795
+94,Touraine,72.0891571
+95,Touraine,196.2347412
+96,Touraine,261.3917236
+97,Touraine,258.6434326
+98,Touraine,243.2641144
+99,Touraine,247.9901581
+100,Touraine,771.4047241
+80,Vin de France,14.87528038
+81,Vin de France,10.24958038
+82,Vin de France,11.00211525
+83,Vin de France,11.86241341
+84,Vin de France,11.28118324
+85,Vin de France,15.22242451
+86,Vin de France,13.88227749
+87,Vin de France,11.51963234
+88,Vin de France,17.42677307
+89,Vin de France,16.27746391
+90,Vin de France,22.85494232
+91,Vin de France,22.33847809
+92,Vin de France,22.70266151
+93,Vin de France,30.27350807
+94,Vin de France,48.57346344
+95,Vin de France,125.0966339
+96,Vin de France,189.7085724
+97,Vin de France,182.7702332
+98,Vin de France,174.720871
+99,Vin de France,170.8215332
+100,Vin de France,683.8171387
+80,Vin de Pays de L'Aude,31.59947014
+81,Vin de Pays de L'Aude,28.99033546
+82,Vin de Pays de L'Aude,30.17830467
+83,Vin de Pays de L'Aude,7.931950569
+84,Vin de Pays de L'Aude,23.60816193
+85,Vin de Pays de L'Aude,19.63704872
+86,Vin de Pays de L'Aude,33.89764404
+87,Vin de Pays de L'Aude,32.33215714
+88,Vin de Pays de L'Aude,41.36643982
+89,Vin de Pays de L'Aude,33.12363815
+90,Vin de Pays de L'Aude,49.71802902
+91,Vin de Pays de L'Aude,48.10947418
+92,Vin de Pays de L'Aude,47.60999298
+93,Vin de Pays de L'Aude,61.762146
+94,Vin de Pays de L'Aude,97.10852814
+95,Vin de Pays de L'Aude,218.1764069
+96,Vin de Pays de L'Aude,285.3644714
+97,Vin de Pays de L'Aude,276.2639465
+98,Vin de Pays de L'Aude,270.4569397
+99,Vin de Pays de L'Aude,272.8862915
+100,Vin de Pays de L'Aude,797.006958
+80,Vin de Pays des Coteaux de Peyriac,28.28382683
+81,Vin de Pays des Coteaux de Peyriac,34.51679611
+82,Vin de Pays des Coteaux de Peyriac,30.34032249
+83,Vin de Pays des Coteaux de Peyriac,31.14985847
+84,Vin de Pays des Coteaux de Peyriac,30.09174156
+85,Vin de Pays des Coteaux de Peyriac,15.63884163
+86,Vin de Pays des Coteaux de Peyriac,33.36011124
+87,Vin de Pays des Coteaux de Peyriac,30.81555367
+88,Vin de Pays des Coteaux de Peyriac,47.22322083
+89,Vin de Pays des Coteaux de Peyriac,33.24475098
+90,Vin de Pays des Coteaux de Peyriac,56.94979858
+91,Vin de Pays des Coteaux de Peyriac,48.67077255
+92,Vin de Pays des Coteaux de Peyriac,51.74071121
+93,Vin de Pays des Coteaux de Peyriac,73.57094574
+94,Vin de Pays des Coteaux de Peyriac,96.93596649
+95,Vin de Pays des Coteaux de Peyriac,226.1159821
+96,Vin de Pays des Coteaux de Peyriac,295.4343262
+97,Vin de Pays des Coteaux de Peyriac,288.7880859
+98,Vin de Pays des Coteaux de Peyriac,277.8106079
+99,Vin de Pays des Coteaux de Peyriac,282.7288513
+100,Vin de Pays des Coteaux de Peyriac,805.6088867
+80,Vin de Pays d'Oc,18.90716171
+81,Vin de Pays d'Oc,11.43668842
+82,Vin de Pays d'Oc,13.01480389
+83,Vin de Pays d'Oc,10.24206638
+84,Vin de Pays d'Oc,10.62159729
+85,Vin de Pays d'Oc,11.10026169
+86,Vin de Pays d'Oc,15.10596752
+87,Vin de Pays d'Oc,14.95705414
+88,Vin de Pays d'Oc,18.8295269
+89,Vin de Pays d'Oc,21.93962669
+90,Vin de Pays d'Oc,26.11368561
+91,Vin de Pays d'Oc,37.81764984
+92,Vin de Pays d'Oc,29.34386635
+93,Vin de Pays d'Oc,38.88412094
+94,Vin de Pays d'Oc,57.23368835
+95,Vin de Pays d'Oc,134.9700317
+96,Vin de Pays d'Oc,183.8593903
+97,Vin de Pays d'Oc,181.5860901
+98,Vin de Pays d'Oc,181.8769684
+99,Vin de Pays d'Oc,176.2098541
+100,Vin de Pays d'Oc,680.7705078
+80,Vin de Pays Var,29.27754211
+81,Vin de Pays Var,28.94550514
+82,Vin de Pays Var,26.4624424
+83,Vin de Pays Var,25.92752838
+84,Vin de Pays Var,30.83075142
+85,Vin de Pays Var,22.49971962
+86,Vin de Pays Var,27.51624107
+87,Vin de Pays Var,25.33566856
+88,Vin de Pays Var,18.64081764
+89,Vin de Pays Var,32.89003372
+90,Vin de Pays Var,53.13815308
+91,Vin de Pays Var,40.74718475
+92,Vin de Pays Var,42.94672394
+93,Vin de Pays Var,58.08189392
+94,Vin de Pays Var,79.47219849
+95,Vin de Pays Var,203.9277802
+96,Vin de Pays Var,268.4699707
+97,Vin de Pays Var,264.5252075
+98,Vin de Pays Var,252.7872314
+99,Vin de Pays Var,254.655899
+100,Vin de Pays Var,777.7891846
+80,Vin de Pays Vignobles de France,50.79853058
+81,Vin de Pays Vignobles de France,60.49466705
+82,Vin de Pays Vignobles de France,61.95172882
+83,Vin de Pays Vignobles de France,56.37992096
+84,Vin de Pays Vignobles de France,44.22031784
+85,Vin de Pays Vignobles de France,40.23166275
+86,Vin de Pays Vignobles de France,54.95598984
+87,Vin de Pays Vignobles de France,44.93115234
+88,Vin de Pays Vignobles de France,63.16005325
+89,Vin de Pays Vignobles de France,47.56153107
+90,Vin de Pays Vignobles de France,88.13076019
+91,Vin de Pays Vignobles de France,63.20196533
+92,Vin de Pays Vignobles de France,70.33721161
+93,Vin de Pays Vignobles de France,96.3998642
+94,Vin de Pays Vignobles de France,127.3422241
+95,Vin de Pays Vignobles de France,295.5011597
+96,Vin de Pays Vignobles de France,374.3062134
+97,Vin de Pays Vignobles de France,363.9829102
+98,Vin de Pays Vignobles de France,347.1412048
+99,Vin de Pays Vignobles de France,356.7497253
+100,Vin de Pays Vignobles de France,884.2139282
+80,Virginia,35.78520203
+81,Virginia,31.64789009
+82,Virginia,24.6265831
+83,Virginia,31.33815956
+84,Virginia,28.50354385
+85,Virginia,28.43945885
+86,Virginia,32.91211319
+87,Virginia,36.32838058
+88,Virginia,35.62755203
+89,Virginia,45.18932724
+90,Virginia,56.52763367
+91,Virginia,52.45096588
+92,Virginia,54.51445007
+93,Virginia,66.87926483
+94,Virginia,103.158577
+95,Virginia,198.7965546
+96,Virginia,266.1834106
+97,Virginia,261.8584595
+98,Virginia,250.9119568
+99,Virginia,251.2839661
+100,Virginia,775.2433472
+80,Virginia's Eastern Shore,55.16381073
+81,Virginia's Eastern Shore,61.51128387
+82,Virginia's Eastern Shore,60.90137482
+83,Virginia's Eastern Shore,52.83695984
+84,Virginia's Eastern Shore,51.30409241
+85,Virginia's Eastern Shore,41.63472748
+86,Virginia's Eastern Shore,58.6627388
+87,Virginia's Eastern Shore,50.77444077
+88,Virginia's Eastern Shore,62.56640625
+89,Virginia's Eastern Shore,59.6619339
+90,Virginia's Eastern Shore,86.33766174
+91,Virginia's Eastern Shore,69.85979462
+92,Virginia's Eastern Shore,75.23760223
+93,Virginia's Eastern Shore,101.2611847
+94,Virginia's Eastern Shore,138.5198212
+95,Virginia's Eastern Shore,299.683197
+96,Virginia's Eastern Shore,376.0715942
+97,Virginia's Eastern Shore,364.2813416
+98,Virginia's Eastern Shore,348.4030762
+99,Virginia's Eastern Shore,359.6290283
+100,Virginia's Eastern Shore,887.2824707
+80,Washington Other,26.30027771
+81,Washington Other,25.44520569
+82,Washington Other,19.76911354
+83,Washington Other,20.34978867
+84,Washington Other,21.79506874
+85,Washington Other,22.57331467
+86,Washington Other,23.45984459
+87,Washington Other,33.56463242
+88,Washington Other,21.92169952
+89,Washington Other,33.69095612
+90,Washington Other,45.784729
+91,Washington Other,53.88444519
+92,Washington Other,41.64233398
+93,Washington Other,61.15979767
+94,Washington Other,78.20259857
+95,Washington Other,94.04137421
+96,Washington Other,122.7130737
+97,Washington Other,133.1841888
+98,Washington Other,172.3124084
+99,Washington Other,161.1316681
+100,Washington Other,596.9780273
+80,Yadkin Valley,22.56863594
+81,Yadkin Valley,17.63614655
+82,Yadkin Valley,30.18214989
+83,Yadkin Valley,21.5152626
+84,Yadkin Valley,24.89583015
+85,Yadkin Valley,23.64647102
+86,Yadkin Valley,35.90720749
+87,Yadkin Valley,30.43453026
+88,Yadkin Valley,48.90370178
+89,Yadkin Valley,33.32749939
+90,Yadkin Valley,55.30263519
+91,Yadkin Valley,43.19294357
+92,Yadkin Valley,49.18217468
+93,Yadkin Valley,65.14599609
+94,Yadkin Valley,100.0646362
+95,Yadkin Valley,213.3369904
+96,Yadkin Valley,283.1264038
+97,Yadkin Valley,272.6365967
+98,Yadkin Valley,268.078186
+99,Yadkin Valley,268.2406006
+100,Yadkin Valley,795.1191406
