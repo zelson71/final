@@ -1,8 +1,9 @@
 Final Project for Martin, Katherine and Zach
 
-Title: The Search for Value in Wines in the US and France and the Relative Price / Rating Relationship Using Data Made Available by Wine Enthusiast Magazine. 
+Title
+The Search for Value in Wines in the US and France and the Relative Price / Rating Relationship Using Data Made Available by Wine Enthusiast Magazine. 
 
-Project Goals: 
+Project Goals
 1)  Determine if Californian wine represents a better value than French wine using price data and wine ratings.
 2)  Predict wine price with region / subregion and rating data.
 
@@ -28,10 +29,6 @@ Executing
 Open and run "US vs French Wine Analysis.twb"
 1) Locate this file in "Tableau"
 2) For a high-level view of the analysis refer to "US vs French Wine Overview.pptx"
-
-Give an example
-Deployment
-Add additional notes about how to deploy this on a live system
 
 Authors
 Zach Elson, Katherine Sullivan and Martin Wehrli
