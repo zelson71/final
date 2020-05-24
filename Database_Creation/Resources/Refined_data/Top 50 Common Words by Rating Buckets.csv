@@ -1,0 +1,1001 @@
+Type of Wine,Descriptor ,Descriptor Count,How Often Descriptor Appears
+Bordeaux Reds - 80-84 Points,pepper ,14,0.03
+Bordeaux Reds - 80-84 Points,future ,14,0.03
+Bordeaux Reds - 80-84 Points,herbal ,14,0.03
+Bordeaux Reds - 80-84 Points,simple ,14,0.03
+Bordeaux Reds - 80-84 Points,spicy ,14,0.03
+Bordeaux Reds - 80-84 Points,overripe ,15,0.03
+Bordeaux Reds - 80-84 Points,unbalanced ,16,0.03
+Bordeaux Reds - 80-84 Points,tannin ,16,0.03
+Bordeaux Reds - 80-84 Points,earthy ,17,0.03
+Bordeaux Reds - 80-84 Points,oak ,17,0.03
+Bordeaux Reds - 80-84 Points,chocolate ,17,0.03
+Bordeaux Reds - 80-84 Points,dense ,18,0.04
+Bordeaux Reds - 80-84 Points,young ,19,0.04
+Bordeaux Reds - 80-84 Points,freshness ,19,0.04
+Bordeaux Reds - 80-84 Points,green ,20,0.04
+Bordeaux Reds - 80-84 Points,weight ,21,0.04
+Bordeaux Reds - 80-84 Points,balance ,23,0.05
+Bordeaux Reds - 80-84 Points,crisp ,23,0.05
+Bordeaux Reds - 80-84 Points,bright ,23,0.05
+Bordeaux Reds - 80-84 Points,burnt ,24,0.05
+Bordeaux Reds - 80-84 Points,jammy ,26,0.05
+Bordeaux Reds - 80-84 Points,structured ,26,0.05
+Bordeaux Reds - 80-84 Points,dark ,27,0.05
+Bordeaux Reds - 80-84 Points,good ,28,0.06
+Bordeaux Reds - 80-84 Points,austere ,28,0.06
+Bordeaux Reds - 80-84 Points,toast ,30,0.06
+Bordeaux Reds - 80-84 Points,fruitiness ,31,0.06
+Bordeaux Reds - 80-84 Points,smoky ,31,0.06
+Bordeaux Reds - 80-84 Points,tight ,33,0.07
+Bordeaux Reds - 80-84 Points,extracted ,34,0.07
+Bordeaux Reds - 80-84 Points,tannic ,34,0.07
+Bordeaux Reds - 80-84 Points,extraction ,35,0.07
+Bordeaux Reds - 80-84 Points,stalky ,37,0.07
+Bordeaux Reds - 80-84 Points,spice ,37,0.07
+Bordeaux Reds - 80-84 Points,ready ,37,0.07
+Bordeaux Reds - 80-84 Points,attractive ,43,0.08
+Bordeaux Reds - 80-84 Points,ripe ,49,0.1
+Bordeaux Reds - 80-84 Points,bitter ,50,0.1
+Bordeaux Reds - 80-84 Points,currant ,55,0.11
+Bordeaux Reds - 80-84 Points,fresh ,57,0.11
+Bordeaux Reds - 80-84 Points,fruity ,58,0.11
+Bordeaux Reds - 80-84 Points,berry ,59,0.12
+Bordeaux Reds - 80-84 Points,lean ,60,0.12
+Bordeaux Reds - 80-84 Points,structure ,64,0.13
+Bordeaux Reds - 80-84 Points,firm ,72,0.14
+Bordeaux Reds - 80-84 Points,juicy ,72,0.14
+Bordeaux Reds - 80-84 Points,soft ,77,0.15
+Bordeaux Reds - 80-84 Points,light ,84,0.17
+Bordeaux Reds - 80-84 Points,black ,85,0.17
+Bordeaux Reds - 80-84 Points,dry ,133,0.26
+Bordeaux Reds - 85-89 Points,freshness ,97,0.03
+Bordeaux Reds - 85-89 Points,powerful ,97,0.03
+Bordeaux Reds - 85-89 Points,new ,102,0.04
+Bordeaux Reds - 85-89 Points,wait ,102,0.04
+Bordeaux Reds - 85-89 Points,stalky ,105,0.04
+Bordeaux Reds - 85-89 Points,sweet ,105,0.04
+Bordeaux Reds - 85-89 Points,great ,107,0.04
+Bordeaux Reds - 85-89 Points,packed ,127,0.04
+Bordeaux Reds - 85-89 Points,perfumed ,133,0.05
+Bordeaux Reds - 85-89 Points,developing ,136,0.05
+Bordeaux Reds - 85-89 Points,plum ,142,0.05
+Bordeaux Reds - 85-89 Points,richness ,153,0.05
+Bordeaux Reds - 85-89 Points,smooth ,169,0.06
+Bordeaux Reds - 85-89 Points,crisp ,179,0.06
+Bordeaux Reds - 85-89 Points,concentrated ,181,0.06
+Bordeaux Reds - 85-89 Points,spicy ,183,0.06
+Bordeaux Reds - 85-89 Points,bright ,191,0.07
+Bordeaux Reds - 85-89 Points,balance ,192,0.07
+Bordeaux Reds - 85-89 Points,weight ,206,0.07
+Bordeaux Reds - 85-89 Points,generous ,225,0.08
+Bordeaux Reds - 85-89 Points,young ,225,0.08
+Bordeaux Reds - 85-89 Points,potential ,231,0.08
+Bordeaux Reds - 85-89 Points,light ,234,0.08
+Bordeaux Reds - 85-89 Points,tannic ,235,0.08
+Bordeaux Reds - 85-89 Points,dark ,251,0.09
+Bordeaux Reds - 85-89 Points,black-currant ,262,0.09
+Bordeaux Reds - 85-89 Points,solid ,267,0.09
+Bordeaux Reds - 85-89 Points,smoky ,271,0.1
+Bordeaux Reds - 85-89 Points,good ,302,0.11
+Bordeaux Reds - 85-89 Points,fruitiness ,325,0.11
+Bordeaux Reds - 85-89 Points,balanced ,327,0.12
+Bordeaux Reds - 85-89 Points,spice ,329,0.12
+Bordeaux Reds - 85-89 Points,blackberry ,334,0.12
+Bordeaux Reds - 85-89 Points,dense ,347,0.12
+Bordeaux Reds - 85-89 Points,attractive ,390,0.14
+Bordeaux Reds - 85-89 Points,currant ,396,0.14
+Bordeaux Reds - 85-89 Points,ready ,401,0.14
+Bordeaux Reds - 85-89 Points,soft ,405,0.14
+Bordeaux Reds - 85-89 Points,structured ,407,0.14
+Bordeaux Reds - 85-89 Points,fresh ,407,0.14
+Bordeaux Reds - 85-89 Points,full ,414,0.15
+Bordeaux Reds - 85-89 Points,berry ,430,0.15
+Bordeaux Reds - 85-89 Points,dry ,579,0.2
+Bordeaux Reds - 85-89 Points,structure ,585,0.21
+Bordeaux Reds - 85-89 Points,fruity ,588,0.21
+Bordeaux Reds - 85-89 Points,rich ,668,0.24
+Bordeaux Reds - 85-89 Points,firm ,726,0.26
+Bordeaux Reds - 85-89 Points,juicy ,797,0.28
+Bordeaux Reds - 85-89 Points,black ,940,0.33
+Bordeaux Reds - 85-89 Points,ripe ,1219,0.43
+Bordeaux Reds - 90-94 Points,developing ,72,0.05
+Bordeaux Reds - 90-94 Points,future ,74,0.05
+Bordeaux Reds - 90-94 Points,fresh ,76,0.05
+Bordeaux Reds - 90-94 Points,spicy ,79,0.05
+Bordeaux Reds - 90-94 Points,soft ,80,0.05
+Bordeaux Reds - 90-94 Points,big ,82,0.05
+Bordeaux Reds - 90-94 Points,attractive ,86,0.05
+Bordeaux Reds - 90-94 Points,impressive ,96,0.06
+Bordeaux Reds - 90-94 Points,sweet ,101,0.06
+Bordeaux Reds - 90-94 Points,layers ,102,0.06
+Bordeaux Reds - 90-94 Points,young ,105,0.07
+Bordeaux Reds - 90-94 Points,tannic ,108,0.07
+Bordeaux Reds - 90-94 Points,packed ,108,0.07
+Bordeaux Reds - 90-94 Points,delicious ,109,0.07
+Bordeaux Reds - 90-94 Points,smoky ,112,0.07
+Bordeaux Reds - 90-94 Points,smooth ,113,0.07
+Bordeaux Reds - 90-94 Points,fruitiness ,113,0.07
+Bordeaux Reds - 90-94 Points,new ,115,0.07
+Bordeaux Reds - 90-94 Points,plum ,117,0.07
+Bordeaux Reds - 90-94 Points,balance ,119,0.07
+Bordeaux Reds - 90-94 Points,concentration ,120,0.08
+Bordeaux Reds - 90-94 Points,ready ,130,0.08
+Bordeaux Reds - 90-94 Points,perfumed ,133,0.08
+Bordeaux Reds - 90-94 Points,currant ,133,0.08
+Bordeaux Reds - 90-94 Points,weight ,142,0.09
+Bordeaux Reds - 90-94 Points,richness ,154,0.1
+Bordeaux Reds - 90-94 Points,fruity ,156,0.1
+Bordeaux Reds - 90-94 Points,black-currant ,160,0.1
+Bordeaux Reds - 90-94 Points,powerful ,169,0.11
+Bordeaux Reds - 90-94 Points,spice ,179,0.11
+Bordeaux Reds - 90-94 Points,berry ,187,0.12
+Bordeaux Reds - 90-94 Points,good ,190,0.12
+Bordeaux Reds - 90-94 Points,potential ,210,0.13
+Bordeaux Reds - 90-94 Points,great ,215,0.14
+Bordeaux Reds - 90-94 Points,dry ,216,0.14
+Bordeaux Reds - 90-94 Points,concentrated ,224,0.14
+Bordeaux Reds - 90-94 Points,balanced ,225,0.14
+Bordeaux Reds - 90-94 Points,blackberry ,230,0.14
+Bordeaux Reds - 90-94 Points,generous ,235,0.15
+Bordeaux Reds - 90-94 Points,solid ,236,0.15
+Bordeaux Reds - 90-94 Points,dark ,291,0.18
+Bordeaux Reds - 90-94 Points,full ,295,0.19
+Bordeaux Reds - 90-94 Points,structured ,345,0.22
+Bordeaux Reds - 90-94 Points,juicy ,345,0.22
+Bordeaux Reds - 90-94 Points,dense ,375,0.24
+Bordeaux Reds - 90-94 Points,structure ,395,0.25
+Bordeaux Reds - 90-94 Points,firm ,441,0.28
+Bordeaux Reds - 90-94 Points,black ,620,0.39
+Bordeaux Reds - 90-94 Points,rich ,728,0.46
+Bordeaux Reds - 90-94 Points,ripe ,846,0.53
+Bordeaux Reds - 95-100 Points,top ,11,0.06
+Bordeaux Reds - 95-100 Points,long-term ,12,0.06
+Bordeaux Reds - 95-100 Points,delicious ,12,0.06
+Bordeaux Reds - 95-100 Points,spice ,12,0.06
+Bordeaux Reds - 95-100 Points,new ,12,0.06
+Bordeaux Reds - 95-100 Points,beautiful ,12,0.06
+Bordeaux Reds - 95-100 Points,berry ,13,0.07
+Bordeaux Reds - 95-100 Points,long ,13,0.07
+Bordeaux Reds - 95-100 Points,big ,13,0.07
+Bordeaux Reds - 95-100 Points,tannic ,14,0.07
+Bordeaux Reds - 95-100 Points,huge ,14,0.07
+Bordeaux Reds - 95-100 Points,density ,14,0.07
+Bordeaux Reds - 95-100 Points,beautifully ,14,0.07
+Bordeaux Reds - 95-100 Points,currant ,14,0.07
+Bordeaux Reds - 95-100 Points,sweet ,15,0.08
+Bordeaux Reds - 95-100 Points,dry ,16,0.08
+Bordeaux Reds - 95-100 Points,fresh ,16,0.08
+Bordeaux Reds - 95-100 Points,blackberry ,16,0.08
+Bordeaux Reds - 95-100 Points,ready ,16,0.08
+Bordeaux Reds - 95-100 Points,packed ,16,0.08
+Bordeaux Reds - 95-100 Points,elegance ,17,0.09
+Bordeaux Reds - 95-100 Points,black-currant ,18,0.09
+Bordeaux Reds - 95-100 Points,serious ,18,0.09
+Bordeaux Reds - 95-100 Points,elegant ,19,0.1
+Bordeaux Reds - 95-100 Points,plum ,19,0.1
+Bordeaux Reds - 95-100 Points,complex ,19,0.1
+Bordeaux Reds - 95-100 Points,concentration ,20,0.1
+Bordeaux Reds - 95-100 Points,full ,20,0.1
+Bordeaux Reds - 95-100 Points,balanced ,21,0.11
+Bordeaux Reds - 95-100 Points,intense ,21,0.11
+Bordeaux Reds - 95-100 Points,opulent ,23,0.12
+Bordeaux Reds - 95-100 Points,generous ,24,0.13
+Bordeaux Reds - 95-100 Points,solid ,24,0.13
+Bordeaux Reds - 95-100 Points,juicy ,24,0.13
+Bordeaux Reds - 95-100 Points,perfumed ,27,0.14
+Bordeaux Reds - 95-100 Points,richness ,31,0.16
+Bordeaux Reds - 95-100 Points,power ,31,0.16
+Bordeaux Reds - 95-100 Points,potential ,31,0.16
+Bordeaux Reds - 95-100 Points,impressive ,34,0.18
+Bordeaux Reds - 95-100 Points,concentrated ,36,0.19
+Bordeaux Reds - 95-100 Points,structured ,36,0.19
+Bordeaux Reds - 95-100 Points,firm ,39,0.2
+Bordeaux Reds - 95-100 Points,powerful ,52,0.27
+Bordeaux Reds - 95-100 Points,dark ,64,0.34
+Bordeaux Reds - 95-100 Points,rich ,65,0.34
+Bordeaux Reds - 95-100 Points,dense ,67,0.35
+Bordeaux Reds - 95-100 Points,structure ,75,0.39
+Bordeaux Reds - 95-100 Points,great ,80,0.42
+Bordeaux Reds - 95-100 Points,ripe ,84,0.44
+Bordeaux Reds - 95-100 Points,black ,86,0.45
+Bordeaux Reds - All,layers ,207,0.04
+Bordeaux Reds - All,developing ,213,0.04
+Bordeaux Reds - All,delicious ,216,0.04
+Bordeaux Reds - All,concentration ,217,0.04
+Bordeaux Reds - All,sweet ,228,0.04
+Bordeaux Reds - All,new ,240,0.05
+Bordeaux Reds - All,packed ,259,0.05
+Bordeaux Reds - All,bright ,260,0.05
+Bordeaux Reds - All,crisp ,261,0.05
+Bordeaux Reds - All,spicy ,280,0.05
+Bordeaux Reds - All,plum ,291,0.06
+Bordeaux Reds - All,smooth ,300,0.06
+Bordeaux Reds - All,perfumed ,304,0.06
+Bordeaux Reds - All,powerful ,320,0.06
+Bordeaux Reds - All,light ,340,0.07
+Bordeaux Reds - All,richness ,342,0.07
+Bordeaux Reds - All,balance ,344,0.07
+Bordeaux Reds - All,young ,354,0.07
+Bordeaux Reds - All,weight ,379,0.07
+Bordeaux Reds - All,tannic ,391,0.08
+Bordeaux Reds - All,great ,410,0.08
+Bordeaux Reds - All,smoky ,423,0.08
+Bordeaux Reds - All,concentrated ,445,0.09
+Bordeaux Reds - All,black-currant ,452,0.09
+Bordeaux Reds - All,fruitiness ,477,0.09
+Bordeaux Reds - All,potential ,480,0.09
+Bordeaux Reds - All,generous ,488,0.1
+Bordeaux Reds - All,attractive ,521,0.1
+Bordeaux Reds - All,good ,529,0.1
+Bordeaux Reds - All,solid ,539,0.11
+Bordeaux Reds - All,fresh ,556,0.11
+Bordeaux Reds - All,spice ,557,0.11
+Bordeaux Reds - All,soft ,567,0.11
+Bordeaux Reds - All,balanced ,583,0.11
+Bordeaux Reds - All,ready ,584,0.11
+Bordeaux Reds - All,blackberry ,591,0.12
+Bordeaux Reds - All,currant ,598,0.12
+Bordeaux Reds - All,dark ,633,0.12
+Bordeaux Reds - All,berry ,689,0.13
+Bordeaux Reds - All,full ,741,0.14
+Bordeaux Reds - All,dense ,807,0.16
+Bordeaux Reds - All,fruity ,810,0.16
+Bordeaux Reds - All,structured ,814,0.16
+Bordeaux Reds - All,dry ,944,0.18
+Bordeaux Reds - All,structure ,1119,0.22
+Bordeaux Reds - All,juicy ,1238,0.24
+Bordeaux Reds - All,firm ,1278,0.25
+Bordeaux Reds - All,rich ,1474,0.29
+Bordeaux Reds - All,black ,1731,0.34
+Bordeaux Reds - All,ripe ,2198,0.43
+Califonia Cabernet - All,fruity ,721,0.04
+Califonia Cabernet - All,concentrated ,727,0.04
+Califonia Cabernet - All,herbs ,738,0.05
+Califonia Cabernet - All,nice ,767,0.05
+Califonia Cabernet - All,licorice ,773,0.05
+Califonia Cabernet - All,young ,785,0.05
+Califonia Cabernet - All,big ,790,0.05
+Califonia Cabernet - All,juicy ,800,0.05
+Califonia Cabernet - All,balance ,805,0.05
+Califonia Cabernet - All,mocha ,832,0.05
+Califonia Cabernet - All,delicious ,834,0.05
+Califonia Cabernet - All,elegant ,840,0.05
+Califonia Cabernet - All,tannin ,842,0.05
+Califonia Cabernet - All,spicy ,850,0.05
+Califonia Cabernet - All,long ,851,0.05
+Califonia Cabernet - All,cellar ,899,0.06
+Califonia Cabernet - All,pepper ,952,0.06
+Califonia Cabernet - All,balanced ,954,0.06
+Califonia Cabernet - All,spice ,962,0.06
+Califonia Cabernet - All,full-bodied ,983,0.06
+Califonia Cabernet - All,dried ,1005,0.06
+Califonia Cabernet - All,vanilla ,1013,0.06
+Califonia Cabernet - All,new ,1029,0.06
+Califonia Cabernet - All,tobacco ,1085,0.07
+Califonia Cabernet - All,herb ,1104,0.07
+Califonia Cabernet - All,smooth ,1164,0.07
+Califonia Cabernet - All,firm ,1238,0.08
+Califonia Cabernet - All,complex ,1261,0.08
+Califonia Cabernet - All,plum ,1351,0.08
+Califonia Cabernet - All,structure ,1375,0.08
+Califonia Cabernet - All,smoky ,1416,0.09
+Califonia Cabernet - All,currants ,1565,0.1
+Califonia Cabernet - All,dark ,1690,0.1
+Califonia Cabernet - All,cherries ,1807,0.11
+Califonia Cabernet - All,cedar ,1839,0.11
+Califonia Cabernet - All,blackberries ,2028,0.13
+Califonia Cabernet - All,tannic ,2054,0.13
+Califonia Cabernet - All,cassis ,2224,0.14
+Califonia Cabernet - All,good ,2250,0.14
+Califonia Cabernet - All,sweet ,2321,0.14
+Califonia Cabernet - All,chocolate ,2628,0.16
+Califonia Cabernet - All,currant ,2642,0.16
+Califonia Cabernet - All,ripe ,3170,0.2
+Califonia Cabernet - All,soft ,3269,0.2
+Califonia Cabernet - All,rich ,3355,0.21
+Califonia Cabernet - All,dry ,3858,0.24
+Califonia Cabernet - All,blackberry ,4473,0.28
+Califonia Cabernet - All,cherry ,4815,0.3
+Califonia Cabernet - All,black ,5205,0.32
+Califonia Cabernet - All,oak ,5271,0.33
+California Cabernet - 80-84 Points,minty ,67,0.03
+California Cabernet - 80-84 Points,decent ,67,0.03
+California Cabernet - 80-84 Points,coffee ,69,0.03
+California Cabernet - 80-84 Points,bitter ,72,0.03
+California Cabernet - 80-84 Points,raisins ,74,0.03
+California Cabernet - 80-84 Points,nice ,75,0.03
+California Cabernet - 80-84 Points,cassis ,75,0.03
+California Cabernet - 80-84 Points,sugary ,77,0.04
+California Cabernet - 80-84 Points,raspberry ,77,0.04
+California Cabernet - 80-84 Points,raisiny ,78,0.04
+California Cabernet - 80-84 Points,modest ,79,0.04
+California Cabernet - 80-84 Points,herb ,80,0.04
+California Cabernet - 80-84 Points,structure ,81,0.04
+California Cabernet - 80-84 Points,smoky ,81,0.04
+California Cabernet - 80-84 Points,jam ,82,0.04
+California Cabernet - 80-84 Points,currants ,84,0.04
+California Cabernet - 80-84 Points,rough ,85,0.04
+California Cabernet - 80-84 Points,vegetal ,92,0.04
+California Cabernet - 80-84 Points,herbal ,93,0.04
+California Cabernet - 80-84 Points,astringent ,96,0.04
+California Cabernet - 80-84 Points,acids ,97,0.05
+California Cabernet - 80-84 Points,overripe ,99,0.05
+California Cabernet - 80-84 Points,earthy ,99,0.05
+California Cabernet - 80-84 Points,fruity ,106,0.05
+California Cabernet - 80-84 Points,jammy ,106,0.05
+California Cabernet - 80-84 Points,rich ,118,0.05
+California Cabernet - 80-84 Points,harsh ,119,0.06
+California Cabernet - 80-84 Points,everyday ,119,0.06
+California Cabernet - 80-84 Points,pretty ,125,0.06
+California Cabernet - 80-84 Points,hot ,136,0.06
+California Cabernet - 80-84 Points,berry ,141,0.07
+California Cabernet - 80-84 Points,thin ,145,0.07
+California Cabernet - 80-84 Points,currant ,149,0.07
+California Cabernet - 80-84 Points,chocolate ,160,0.07
+California Cabernet - 80-84 Points,sharp ,163,0.08
+California Cabernet - 80-84 Points,black ,176,0.08
+California Cabernet - 80-84 Points,rustic ,176,0.08
+California Cabernet - 80-84 Points,blackberries ,193,0.09
+California Cabernet - 80-84 Points,green ,213,0.1
+California Cabernet - 80-84 Points,good ,226,0.11
+California Cabernet - 80-84 Points,cherries ,244,0.11
+California Cabernet - 80-84 Points,tannic ,254,0.12
+California Cabernet - 80-84 Points,ripe ,264,0.12
+California Cabernet - 80-84 Points,simple ,304,0.14
+California Cabernet - 80-84 Points,oak ,394,0.18
+California Cabernet - 80-84 Points,sweet ,417,0.19
+California Cabernet - 80-84 Points,soft ,443,0.21
+California Cabernet - 80-84 Points,blackberry ,490,0.23
+California Cabernet - 80-84 Points,cherry ,583,0.27
+California Cabernet - 80-84 Points,dry ,643,0.3
+California Cabernet - 85-89 Points,complexity ,269,0.04
+California Cabernet - 85-89 Points,elegant ,269,0.04
+California Cabernet - 85-89 Points,tannin ,280,0.04
+California Cabernet - 85-89 Points,jammy ,282,0.04
+California Cabernet - 85-89 Points,big ,289,0.04
+California Cabernet - 85-89 Points,licorice ,302,0.04
+California Cabernet - 85-89 Points,herbal ,309,0.05
+California Cabernet - 85-89 Points,berry ,311,0.05
+California Cabernet - 85-89 Points,complex ,319,0.05
+California Cabernet - 85-89 Points,jam ,333,0.05
+California Cabernet - 85-89 Points,balanced ,334,0.05
+California Cabernet - 85-89 Points,mocha ,337,0.05
+California Cabernet - 85-89 Points,easy ,339,0.05
+California Cabernet - 85-89 Points,pretty ,344,0.05
+California Cabernet - 85-89 Points,juicy ,349,0.05
+California Cabernet - 85-89 Points,herbs ,351,0.05
+California Cabernet - 85-89 Points,spicy ,360,0.05
+California Cabernet - 85-89 Points,pepper ,383,0.06
+California Cabernet - 85-89 Points,fruity ,406,0.06
+California Cabernet - 85-89 Points,firm ,413,0.06
+California Cabernet - 85-89 Points,full-bodied ,418,0.06
+California Cabernet - 85-89 Points,vanilla ,427,0.06
+California Cabernet - 85-89 Points,spice ,432,0.06
+California Cabernet - 85-89 Points,dried ,433,0.06
+California Cabernet - 85-89 Points,structure ,458,0.07
+California Cabernet - 85-89 Points,tobacco ,476,0.07
+California Cabernet - 85-89 Points,herb ,482,0.07
+California Cabernet - 85-89 Points,nice ,508,0.07
+California Cabernet - 85-89 Points,smooth ,527,0.08
+California Cabernet - 85-89 Points,dark ,584,0.09
+California Cabernet - 85-89 Points,plum ,587,0.09
+California Cabernet - 85-89 Points,currants ,594,0.09
+California Cabernet - 85-89 Points,smoky ,633,0.09
+California Cabernet - 85-89 Points,cassis ,659,0.1
+California Cabernet - 85-89 Points,cedar ,689,0.1
+California Cabernet - 85-89 Points,blackberries ,829,0.12
+California Cabernet - 85-89 Points,cherries ,852,0.13
+California Cabernet - 85-89 Points,tannic ,880,0.13
+California Cabernet - 85-89 Points,chocolate ,908,0.13
+California Cabernet - 85-89 Points,sweet ,925,0.14
+California Cabernet - 85-89 Points,currant ,1044,0.15
+California Cabernet - 85-89 Points,good ,1191,0.18
+California Cabernet - 85-89 Points,rich ,1299,0.19
+California Cabernet - 85-89 Points,ripe ,1369,0.2
+California Cabernet - 85-89 Points,soft ,1482,0.22
+California Cabernet - 85-89 Points,dry ,1856,0.27
+California Cabernet - 85-89 Points,black ,1892,0.28
+California Cabernet - 85-89 Points,blackberry ,1959,0.29
+California Cabernet - 85-89 Points,cherry ,2122,0.31
+California Cabernet - 85-89 Points,oak ,2174,0.32
+California Cabernet - 90-94 Points,spicy ,409,0.06
+California Cabernet - 90-94 Points,mocha ,411,0.06
+California Cabernet - 90-94 Points,great ,415,0.06
+California Cabernet - 90-94 Points,classic ,424,0.06
+California Cabernet - 90-94 Points,spice ,430,0.06
+California Cabernet - 90-94 Points,clove ,431,0.06
+California Cabernet - 90-94 Points,big ,442,0.07
+California Cabernet - 90-94 Points,lush ,443,0.07
+California Cabernet - 90-94 Points,concentrated ,451,0.07
+California Cabernet - 90-94 Points,pepper ,462,0.07
+California Cabernet - 90-94 Points,mountain ,470,0.07
+California Cabernet - 90-94 Points,balance ,477,0.07
+California Cabernet - 90-94 Points,young ,477,0.07
+California Cabernet - 90-94 Points,full-bodied ,481,0.07
+California Cabernet - 90-94 Points,vanilla ,485,0.07
+California Cabernet - 90-94 Points,tannin ,491,0.07
+California Cabernet - 90-94 Points,dried ,498,0.07
+California Cabernet - 90-94 Points,herb ,508,0.08
+California Cabernet - 90-94 Points,tobacco ,508,0.08
+California Cabernet - 90-94 Points,elegant ,521,0.08
+California Cabernet - 90-94 Points,smooth ,523,0.08
+California Cabernet - 90-94 Points,delicious ,526,0.08
+California Cabernet - 90-94 Points,long ,532,0.08
+California Cabernet - 90-94 Points,balanced ,534,0.08
+California Cabernet - 90-94 Points,cellar ,608,0.09
+California Cabernet - 90-94 Points,new ,611,0.09
+California Cabernet - 90-94 Points,smoky ,618,0.09
+California Cabernet - 90-94 Points,cherries ,639,0.1
+California Cabernet - 90-94 Points,plum ,646,0.1
+California Cabernet - 90-94 Points,firm ,702,0.11
+California Cabernet - 90-94 Points,structure ,727,0.11
+California Cabernet - 90-94 Points,currants ,768,0.12
+California Cabernet - 90-94 Points,good ,773,0.12
+California Cabernet - 90-94 Points,complex ,815,0.12
+California Cabernet - 90-94 Points,tannic ,840,0.13
+California Cabernet - 90-94 Points,sweet ,868,0.13
+California Cabernet - 90-94 Points,blackberries ,876,0.13
+California Cabernet - 90-94 Points,dark ,953,0.14
+California Cabernet - 90-94 Points,cedar ,978,0.15
+California Cabernet - 90-94 Points,soft ,1237,0.19
+California Cabernet - 90-94 Points,dry ,1255,0.19
+California Cabernet - 90-94 Points,cassis ,1315,0.2
+California Cabernet - 90-94 Points,currant ,1329,0.2
+California Cabernet - 90-94 Points,chocolate ,1365,0.21
+California Cabernet - 90-94 Points,ripe ,1420,0.21
+California Cabernet - 90-94 Points,rich ,1777,0.27
+California Cabernet - 90-94 Points,blackberry ,1853,0.28
+California Cabernet - 90-94 Points,cherry ,1965,0.3
+California Cabernet - 90-94 Points,oak ,2435,0.37
+California Cabernet - 90-94 Points,black ,2824,0.42
+California Cabernet - 95-100 Points,richness ,42,0.07
+California Cabernet - 95-100 Points,gorgeous ,42,0.07
+California Cabernet - 95-100 Points,powerful ,42,0.07
+California Cabernet - 95-100 Points,spicy ,43,0.07
+California Cabernet - 95-100 Points,lush ,43,0.07
+California Cabernet - 95-100 Points,elegant ,45,0.07
+California Cabernet - 95-100 Points,tannin ,47,0.08
+California Cabernet - 95-100 Points,complexity ,47,0.08
+California Cabernet - 95-100 Points,decade ,48,0.08
+California Cabernet - 95-100 Points,licorice ,48,0.08
+California Cabernet - 95-100 Points,refined ,49,0.08
+California Cabernet - 95-100 Points,pepper ,51,0.08
+California Cabernet - 95-100 Points,spice ,53,0.09
+California Cabernet - 95-100 Points,smooth ,54,0.09
+California Cabernet - 95-100 Points,balance ,56,0.09
+California Cabernet - 95-100 Points,plum ,59,0.1
+California Cabernet - 95-100 Points,concentrated ,60,0.1
+California Cabernet - 95-100 Points,good ,60,0.1
+California Cabernet - 95-100 Points,balanced ,61,0.1
+California Cabernet - 95-100 Points,classic ,63,0.1
+California Cabernet - 95-100 Points,mountain ,65,0.11
+California Cabernet - 95-100 Points,beautiful ,67,0.11
+California Cabernet - 95-100 Points,long ,67,0.11
+California Cabernet - 95-100 Points,cherries ,72,0.12
+California Cabernet - 95-100 Points,delicious ,73,0.12
+California Cabernet - 95-100 Points,power ,79,0.13
+California Cabernet - 95-100 Points,tannic ,80,0.13
+California Cabernet - 95-100 Points,great ,81,0.13
+California Cabernet - 95-100 Points,firm ,82,0.14
+California Cabernet - 95-100 Points,smoky ,84,0.14
+California Cabernet - 95-100 Points,cellar ,90,0.15
+California Cabernet - 95-100 Points,dry ,104,0.17
+California Cabernet - 95-100 Points,soft ,107,0.18
+California Cabernet - 95-100 Points,structure ,109,0.18
+California Cabernet - 95-100 Points,new ,109,0.18
+California Cabernet - 95-100 Points,cedar ,110,0.18
+California Cabernet - 95-100 Points,sweet ,111,0.18
+California Cabernet - 95-100 Points,dark ,115,0.19
+California Cabernet - 95-100 Points,ripe ,117,0.19
+California Cabernet - 95-100 Points,complex ,118,0.2
+California Cabernet - 95-100 Points,currants ,119,0.2
+California Cabernet - 95-100 Points,currant ,120,0.2
+California Cabernet - 95-100 Points,blackberries ,130,0.22
+California Cabernet - 95-100 Points,cherry ,145,0.24
+California Cabernet - 95-100 Points,rich ,161,0.27
+California Cabernet - 95-100 Points,blackberry ,171,0.28
+California Cabernet - 95-100 Points,cassis ,175,0.29
+California Cabernet - 95-100 Points,chocolate ,195,0.32
+California Cabernet - 95-100 Points,oak ,268,0.44
+California Cabernet - 95-100 Points,black ,313,0.52
+California Chardonnay - 80-84 Points,strong ,44,0.04
+California Chardonnay - 80-84 Points,watery ,45,0.04
+California Chardonnay - 80-84 Points,rich ,49,0.04
+California Chardonnay - 80-84 Points,modest ,51,0.04
+California Chardonnay - 80-84 Points,lime ,52,0.04
+California Chardonnay - 80-84 Points,pears ,53,0.04
+California Chardonnay - 80-84 Points,balance ,53,0.04
+California Chardonnay - 80-84 Points,spicy ,54,0.04
+California Chardonnay - 80-84 Points,cream ,58,0.05
+California Chardonnay - 80-84 Points,apples ,59,0.05
+California Chardonnay - 80-84 Points,earthy ,61,0.05
+California Chardonnay - 80-84 Points,smoky ,61,0.05
+California Chardonnay - 80-84 Points,nice ,63,0.05
+California Chardonnay - 80-84 Points,butterscotch ,64,0.05
+California Chardonnay - 80-84 Points,popcorn ,65,0.05
+California Chardonnay - 80-84 Points,lemon ,67,0.05
+California Chardonnay - 80-84 Points,pretty ,69,0.06
+California Chardonnay - 80-84 Points,tart ,70,0.06
+California Chardonnay - 80-84 Points,citrus ,72,0.06
+California Chardonnay - 80-84 Points,heavy ,73,0.06
+California Chardonnay - 80-84 Points,everyday ,75,0.06
+California Chardonnay - 80-84 Points,sugary ,77,0.06
+California Chardonnay - 80-84 Points,fruity ,78,0.06
+California Chardonnay - 80-84 Points,green ,83,0.07
+California Chardonnay - 80-84 Points,thin ,84,0.07
+California Chardonnay - 80-84 Points,clean ,90,0.07
+California Chardonnay - 80-84 Points,jam ,92,0.07
+California Chardonnay - 80-84 Points,caramel ,93,0.08
+California Chardonnay - 80-84 Points,pineapples ,95,0.08
+California Chardonnay - 80-84 Points,orange ,109,0.09
+California Chardonnay - 80-84 Points,tropical ,112,0.09
+California Chardonnay - 80-84 Points,good ,113,0.09
+California Chardonnay - 80-84 Points,creamy ,117,0.1
+California Chardonnay - 80-84 Points,apricot ,118,0.1
+California Chardonnay - 80-84 Points,peaches ,119,0.1
+California Chardonnay - 80-84 Points,crisp ,120,0.1
+California Chardonnay - 80-84 Points,soft ,130,0.11
+California Chardonnay - 80-84 Points,pear ,137,0.11
+California Chardonnay - 80-84 Points,toast ,152,0.12
+California Chardonnay - 80-84 Points,ripe ,152,0.12
+California Chardonnay - 80-84 Points,apple ,157,0.13
+California Chardonnay - 80-84 Points,buttered ,181,0.15
+California Chardonnay - 80-84 Points,oaky ,185,0.15
+California Chardonnay - 80-84 Points,dry ,193,0.16
+California Chardonnay - 80-84 Points,peach ,212,0.17
+California Chardonnay - 80-84 Points,vanilla ,248,0.2
+California Chardonnay - 80-84 Points,simple ,268,0.22
+California Chardonnay - 80-84 Points,pineapple ,334,0.27
+California Chardonnay - 80-84 Points,sweet ,353,0.29
+California Chardonnay - 80-84 Points,oak ,423,0.34
+California Chardonnay - 85-89 Points,brisk ,198,0.05
+California Chardonnay - 85-89 Points,buttery ,200,0.05
+California Chardonnay - 85-89 Points,fresh ,201,0.05
+California Chardonnay - 85-89 Points,pretty ,207,0.05
+California Chardonnay - 85-89 Points,richness ,212,0.05
+California Chardonnay - 85-89 Points,new ,214,0.05
+California Chardonnay - 85-89 Points,cream ,214,0.05
+California Chardonnay - 85-89 Points,pears ,224,0.05
+California Chardonnay - 85-89 Points,minerality ,225,0.05
+California Chardonnay - 85-89 Points,honey ,229,0.05
+California Chardonnay - 85-89 Points,apricot ,230,0.05
+California Chardonnay - 85-89 Points,fruity ,231,0.05
+California Chardonnay - 85-89 Points,butterscotch ,232,0.05
+California Chardonnay - 85-89 Points,balanced ,236,0.05
+California Chardonnay - 85-89 Points,toasty ,242,0.06
+California Chardonnay - 85-89 Points,peaches ,252,0.06
+California Chardonnay - 85-89 Points,soft ,256,0.06
+California Chardonnay - 85-89 Points,light ,258,0.06
+California Chardonnay - 85-89 Points,spice ,269,0.06
+California Chardonnay - 85-89 Points,spicy ,279,0.06
+California Chardonnay - 85-89 Points,tart ,280,0.06
+California Chardonnay - 85-89 Points,nice ,284,0.07
+California Chardonnay - 85-89 Points,bright ,297,0.07
+California Chardonnay - 85-89 Points,pineapples ,314,0.07
+California Chardonnay - 85-89 Points,caramel ,321,0.07
+California Chardonnay - 85-89 Points,orange ,322,0.07
+California Chardonnay - 85-89 Points,smoky ,329,0.08
+California Chardonnay - 85-89 Points,apples ,337,0.08
+California Chardonnay - 85-89 Points,clean ,413,0.1
+California Chardonnay - 85-89 Points,lime ,449,0.1
+California Chardonnay - 85-89 Points,oaky ,476,0.11
+California Chardonnay - 85-89 Points,green ,479,0.11
+California Chardonnay - 85-89 Points,citrus ,507,0.12
+California Chardonnay - 85-89 Points,sweet ,561,0.13
+California Chardonnay - 85-89 Points,creamy ,567,0.13
+California Chardonnay - 85-89 Points,good ,591,0.14
+California Chardonnay - 85-89 Points,dry ,620,0.14
+California Chardonnay - 85-89 Points,lemon ,680,0.16
+California Chardonnay - 85-89 Points,crisp ,704,0.16
+California Chardonnay - 85-89 Points,buttered ,704,0.16
+California Chardonnay - 85-89 Points,peach ,709,0.16
+California Chardonnay - 85-89 Points,tropical ,742,0.17
+California Chardonnay - 85-89 Points,toast ,752,0.17
+California Chardonnay - 85-89 Points,rich ,890,0.21
+California Chardonnay - 85-89 Points,pineapple ,903,0.21
+California Chardonnay - 85-89 Points,pear ,906,0.21
+California Chardonnay - 85-89 Points,ripe ,995,0.23
+California Chardonnay - 85-89 Points,vanilla ,1083,0.25
+California Chardonnay - 85-89 Points,apple ,1181,0.27
+California Chardonnay - 85-89 Points,oak ,1843,0.43
+California Chardonnay - 90-94 Points,lush ,206,0.05
+California Chardonnay - 90-94 Points,pineapples ,206,0.05
+California Chardonnay - 90-94 Points,brûlée ,208,0.05
+California Chardonnay - 90-94 Points,cream ,210,0.05
+California Chardonnay - 90-94 Points,oaky ,213,0.06
+California Chardonnay - 90-94 Points,mango ,216,0.06
+California Chardonnay - 90-94 Points,delicious ,231,0.06
+California Chardonnay - 90-94 Points,clean ,234,0.06
+California Chardonnay - 90-94 Points,light ,240,0.06
+California Chardonnay - 90-94 Points,great ,244,0.06
+California Chardonnay - 90-94 Points,tart ,249,0.06
+California Chardonnay - 90-94 Points,spicy ,255,0.07
+California Chardonnay - 90-94 Points,sweet ,271,0.07
+California Chardonnay - 90-94 Points,apples ,273,0.07
+California Chardonnay - 90-94 Points,elegant ,275,0.07
+California Chardonnay - 90-94 Points,meyer ,276,0.07
+California Chardonnay - 90-94 Points,butter ,278,0.07
+California Chardonnay - 90-94 Points,caramel ,279,0.07
+California Chardonnay - 90-94 Points,spice ,283,0.07
+California Chardonnay - 90-94 Points,smoky ,287,0.07
+California Chardonnay - 90-94 Points,new ,288,0.08
+California Chardonnay - 90-94 Points,long ,289,0.08
+California Chardonnay - 90-94 Points,honey ,291,0.08
+California Chardonnay - 90-94 Points,balance ,298,0.08
+California Chardonnay - 90-94 Points,good ,300,0.08
+California Chardonnay - 90-94 Points,orange ,305,0.08
+California Chardonnay - 90-94 Points,fresh ,313,0.08
+California Chardonnay - 90-94 Points,richness ,321,0.08
+California Chardonnay - 90-94 Points,bright ,402,0.1
+California Chardonnay - 90-94 Points,citrus ,408,0.11
+California Chardonnay - 90-94 Points,buttered ,437,0.11
+California Chardonnay - 90-94 Points,complex ,443,0.12
+California Chardonnay - 90-94 Points,balanced ,444,0.12
+California Chardonnay - 90-94 Points,dry ,446,0.12
+California Chardonnay - 90-94 Points,green ,480,0.13
+California Chardonnay - 90-94 Points,minerality ,498,0.13
+California Chardonnay - 90-94 Points,creamy ,537,0.14
+California Chardonnay - 90-94 Points,toast ,548,0.14
+California Chardonnay - 90-94 Points,peach ,557,0.15
+California Chardonnay - 90-94 Points,lime ,588,0.15
+California Chardonnay - 90-94 Points,tropical ,603,0.16
+California Chardonnay - 90-94 Points,crisp ,643,0.17
+California Chardonnay - 90-94 Points,pineapple ,682,0.18
+California Chardonnay - 90-94 Points,ripe ,747,0.19
+California Chardonnay - 90-94 Points,vanilla ,775,0.2
+California Chardonnay - 90-94 Points,pear ,882,0.23
+California Chardonnay - 90-94 Points,rich ,945,0.25
+California Chardonnay - 90-94 Points,lemon ,1048,0.27
+California Chardonnay - 90-94 Points,apple ,1174,0.31
+California Chardonnay - 90-94 Points,oak ,1611,0.42
+California Chardonnay - 95-100 Points,layers ,16,0.07
+California Chardonnay - 95-100 Points,clean ,16,0.07
+California Chardonnay - 95-100 Points,nutmeg ,16,0.07
+California Chardonnay - 95-100 Points,stone ,17,0.08
+California Chardonnay - 95-100 Points,citrus ,17,0.08
+California Chardonnay - 95-100 Points,minerals ,17,0.08
+California Chardonnay - 95-100 Points,pineapples ,17,0.08
+California Chardonnay - 95-100 Points,butterscotch ,17,0.08
+California Chardonnay - 95-100 Points,salt ,18,0.08
+California Chardonnay - 95-100 Points,salty ,18,0.08
+California Chardonnay - 95-100 Points,orange ,18,0.08
+California Chardonnay - 95-100 Points,golden ,18,0.08
+California Chardonnay - 95-100 Points,tart ,19,0.09
+California Chardonnay - 95-100 Points,green ,19,0.09
+California Chardonnay - 95-100 Points,chardonnays ,19,0.09
+California Chardonnay - 95-100 Points,spice ,19,0.09
+California Chardonnay - 95-100 Points,cinnamon ,20,0.09
+California Chardonnay - 95-100 Points,sea ,20,0.09
+California Chardonnay - 95-100 Points,exotic ,20,0.09
+California Chardonnay - 95-100 Points,sweet ,20,0.09
+California Chardonnay - 95-100 Points,balance ,21,0.1
+California Chardonnay - 95-100 Points,meyer ,22,0.1
+California Chardonnay - 95-100 Points,smoky ,22,0.1
+California Chardonnay - 95-100 Points,fresh ,23,0.11
+California Chardonnay - 95-100 Points,great ,23,0.11
+California Chardonnay - 95-100 Points,new ,23,0.11
+California Chardonnay - 95-100 Points,pie ,23,0.11
+California Chardonnay - 95-100 Points,ripe ,24,0.11
+California Chardonnay - 95-100 Points,brûlée ,25,0.12
+California Chardonnay - 95-100 Points,bright ,26,0.12
+California Chardonnay - 95-100 Points,peach ,26,0.12
+California Chardonnay - 95-100 Points,crème ,27,0.13
+California Chardonnay - 95-100 Points,richness ,29,0.13
+California Chardonnay - 95-100 Points,crisp ,29,0.13
+California Chardonnay - 95-100 Points,dry ,29,0.13
+California Chardonnay - 95-100 Points,vanilla ,32,0.15
+California Chardonnay - 95-100 Points,honey ,35,0.16
+California Chardonnay - 95-100 Points,balanced ,37,0.17
+California Chardonnay - 95-100 Points,lime ,37,0.17
+California Chardonnay - 95-100 Points,pineapple ,37,0.17
+California Chardonnay - 95-100 Points,tropical ,37,0.17
+California Chardonnay - 95-100 Points,buttered ,38,0.18
+California Chardonnay - 95-100 Points,complex ,42,0.2
+California Chardonnay - 95-100 Points,minerality ,43,0.2
+California Chardonnay - 95-100 Points,toast ,47,0.22
+California Chardonnay - 95-100 Points,pear ,54,0.25
+California Chardonnay - 95-100 Points,rich ,54,0.25
+California Chardonnay - 95-100 Points,apple ,56,0.26
+California Chardonnay - 95-100 Points,oak ,77,0.36
+California Chardonnay - 95-100 Points,lemon ,78,0.36
+California Chardonnay - All,elegant ,442,0.05
+California Chardonnay - All,toasty ,452,0.05
+California Chardonnay - All,butterscotch ,490,0.05
+California Chardonnay - All,pears ,494,0.05
+California Chardonnay - All,cream ,498,0.05
+California Chardonnay - All,long ,504,0.05
+California Chardonnay - All,butter ,508,0.05
+California Chardonnay - All,soft ,520,0.05
+California Chardonnay - All,light ,535,0.06
+California Chardonnay - All,peaches ,541,0.06
+California Chardonnay - All,apricot ,548,0.06
+California Chardonnay - All,fresh ,552,0.06
+California Chardonnay - All,balance ,559,0.06
+California Chardonnay - All,new ,563,0.06
+California Chardonnay - All,richness ,588,0.06
+California Chardonnay - All,honey ,595,0.06
+California Chardonnay - All,spicy ,603,0.06
+California Chardonnay - All,spice ,606,0.06
+California Chardonnay - All,tart ,618,0.06
+California Chardonnay - All,complex ,630,0.07
+California Chardonnay - All,pineapples ,632,0.07
+California Chardonnay - All,apples ,674,0.07
+California Chardonnay - All,smoky ,699,0.07
+California Chardonnay - All,caramel ,708,0.07
+California Chardonnay - All,balanced ,735,0.08
+California Chardonnay - All,bright ,748,0.08
+California Chardonnay - All,clean ,753,0.08
+California Chardonnay - All,orange ,754,0.08
+California Chardonnay - All,minerality ,783,0.08
+California Chardonnay - All,oaky ,881,0.09
+California Chardonnay - All,citrus ,1004,0.1
+California Chardonnay - All,good ,1014,0.11
+California Chardonnay - All,green ,1061,0.11
+California Chardonnay - All,lime ,1126,0.12
+California Chardonnay - All,sweet ,1205,0.13
+California Chardonnay - All,creamy ,1233,0.13
+California Chardonnay - All,dry ,1288,0.13
+California Chardonnay - All,buttered ,1360,0.14
+California Chardonnay - All,tropical ,1494,0.16
+California Chardonnay - All,crisp ,1496,0.16
+California Chardonnay - All,toast ,1499,0.16
+California Chardonnay - All,peach ,1504,0.16
+California Chardonnay - All,lemon ,1873,0.19
+California Chardonnay - All,ripe ,1918,0.2
+California Chardonnay - All,rich ,1938,0.2
+California Chardonnay - All,pineapple ,1956,0.2
+California Chardonnay - All,pear ,1979,0.21
+California Chardonnay - All,vanilla ,2138,0.22
+California Chardonnay - All,apple ,2568,0.27
+California Chardonnay - All,oak ,3954,0.41
+French Chardonnay - 80-84 Points,grapefruit ,8,0.03
+French Chardonnay - 80-84 Points,lean ,8,0.03
+French Chardonnay - 80-84 Points,caramel ,8,0.03
+French Chardonnay - 80-84 Points,mineral ,8,0.03
+French Chardonnay - 80-84 Points,heavy ,8,0.03
+French Chardonnay - 80-84 Points,tropical ,8,0.03
+French Chardonnay - 80-84 Points,warm ,8,0.03
+French Chardonnay - 80-84 Points,bitter ,9,0.03
+French Chardonnay - 80-84 Points,tart ,9,0.03
+French Chardonnay - 80-84 Points,smooth ,9,0.03
+French Chardonnay - 80-84 Points,rich ,9,0.03
+French Chardonnay - 80-84 Points,lacks ,9,0.03
+French Chardonnay - 80-84 Points,fruitiness ,9,0.03
+French Chardonnay - 80-84 Points,full ,10,0.04
+French Chardonnay - 80-84 Points,apples ,10,0.04
+French Chardonnay - 80-84 Points,dilute ,10,0.04
+French Chardonnay - 80-84 Points,tight ,10,0.04
+French Chardonnay - 80-84 Points,freshness ,10,0.04
+French Chardonnay - 80-84 Points,short ,11,0.04
+French Chardonnay - 80-84 Points,pleasant ,11,0.04
+French Chardonnay - 80-84 Points,oak ,11,0.04
+French Chardonnay - 80-84 Points,orange ,11,0.04
+French Chardonnay - 80-84 Points,toast ,12,0.04
+French Chardonnay - 80-84 Points,sweet ,13,0.05
+French Chardonnay - 80-84 Points,easy ,13,0.05
+French Chardonnay - 80-84 Points,gentle ,13,0.05
+French Chardonnay - 80-84 Points,peach ,15,0.06
+French Chardonnay - 80-84 Points,weight ,15,0.06
+French Chardonnay - 80-84 Points,melon ,16,0.06
+French Chardonnay - 80-84 Points,vanilla ,16,0.06
+French Chardonnay - 80-84 Points,creamy ,16,0.06
+French Chardonnay - 80-84 Points,rounded ,16,0.06
+French Chardonnay - 80-84 Points,bright ,17,0.06
+French Chardonnay - 80-84 Points,round ,18,0.07
+French Chardonnay - 80-84 Points,clean ,19,0.07
+French Chardonnay - 80-84 Points,spice ,22,0.08
+French Chardonnay - 80-84 Points,lemon ,26,0.1
+French Chardonnay - 80-84 Points,ready ,30,0.11
+French Chardonnay - 80-84 Points,simple ,32,0.12
+French Chardonnay - 80-84 Points,attractive ,34,0.13
+French Chardonnay - 80-84 Points,pear ,35,0.13
+French Chardonnay - 80-84 Points,crisp ,38,0.14
+French Chardonnay - 80-84 Points,ripe ,39,0.14
+French Chardonnay - 80-84 Points,fresh ,41,0.15
+French Chardonnay - 80-84 Points,green ,42,0.16
+French Chardonnay - 80-84 Points,fruity ,44,0.16
+French Chardonnay - 80-84 Points,citrus ,48,0.18
+French Chardonnay - 80-84 Points,apple ,69,0.26
+French Chardonnay - 80-84 Points,light ,78,0.29
+French Chardonnay - 80-84 Points,soft ,103,0.38
+French Chardonnay - 85-89 Points,clean ,72,0.04
+French Chardonnay - 85-89 Points,lime ,73,0.04
+French Chardonnay - 85-89 Points,steely ,75,0.04
+French Chardonnay - 85-89 Points,weight ,80,0.05
+French Chardonnay - 85-89 Points,balance ,84,0.05
+French Chardonnay - 85-89 Points,round ,85,0.05
+French Chardonnay - 85-89 Points,young ,85,0.05
+French Chardonnay - 85-89 Points,apples ,87,0.05
+French Chardonnay - 85-89 Points,great ,91,0.05
+French Chardonnay - 85-89 Points,freshness ,92,0.05
+French Chardonnay - 85-89 Points,generous ,96,0.06
+French Chardonnay - 85-89 Points,toasty ,102,0.06
+French Chardonnay - 85-89 Points,fruitiness ,105,0.06
+French Chardonnay - 85-89 Points,richness ,106,0.06
+French Chardonnay - 85-89 Points,vanilla ,110,0.06
+French Chardonnay - 85-89 Points,refreshing ,111,0.07
+French Chardonnay - 85-89 Points,structure ,111,0.07
+French Chardonnay - 85-89 Points,textured ,115,0.07
+French Chardonnay - 85-89 Points,lively ,118,0.07
+French Chardonnay - 85-89 Points,apricot ,118,0.07
+French Chardonnay - 85-89 Points,tangy ,125,0.07
+French Chardonnay - 85-89 Points,delicious ,127,0.07
+French Chardonnay - 85-89 Points,warm ,132,0.08
+French Chardonnay - 85-89 Points,balanced ,138,0.08
+French Chardonnay - 85-89 Points,tight ,146,0.09
+French Chardonnay - 85-89 Points,minerality ,150,0.09
+French Chardonnay - 85-89 Points,good ,155,0.09
+French Chardonnay - 85-89 Points,lemon ,155,0.09
+French Chardonnay - 85-89 Points,peach ,160,0.09
+French Chardonnay - 85-89 Points,smooth ,165,0.1
+French Chardonnay - 85-89 Points,toast ,176,0.1
+French Chardonnay - 85-89 Points,rounded ,189,0.11
+French Chardonnay - 85-89 Points,spice ,197,0.12
+French Chardonnay - 85-89 Points,green ,199,0.12
+French Chardonnay - 85-89 Points,creamy ,203,0.12
+French Chardonnay - 85-89 Points,bright ,212,0.12
+French Chardonnay - 85-89 Points,pear ,242,0.14
+French Chardonnay - 85-89 Points,mineral ,248,0.15
+French Chardonnay - 85-89 Points,full ,277,0.16
+French Chardonnay - 85-89 Points,light ,283,0.17
+French Chardonnay - 85-89 Points,attractive ,283,0.17
+French Chardonnay - 85-89 Points,fruity ,320,0.19
+French Chardonnay - 85-89 Points,ready ,325,0.19
+French Chardonnay - 85-89 Points,fresh ,358,0.21
+French Chardonnay - 85-89 Points,rich ,362,0.21
+French Chardonnay - 85-89 Points,soft ,378,0.22
+French Chardonnay - 85-89 Points,citrus ,378,0.22
+French Chardonnay - 85-89 Points,apple ,407,0.24
+French Chardonnay - 85-89 Points,crisp ,523,0.31
+French Chardonnay - 85-89 Points,ripe ,723,0.42
+French Chardonnay - 90-94 Points,complex ,67,0.05
+French Chardonnay - 90-94 Points,powerful ,68,0.05
+French Chardonnay - 90-94 Points,vanilla ,72,0.05
+French Chardonnay - 90-94 Points,warm ,75,0.06
+French Chardonnay - 90-94 Points,lemon ,75,0.06
+French Chardonnay - 90-94 Points,taut ,76,0.06
+French Chardonnay - 90-94 Points,toasty ,77,0.06
+French Chardonnay - 90-94 Points,weight ,78,0.06
+French Chardonnay - 90-94 Points,smooth ,79,0.06
+French Chardonnay - 90-94 Points,fruitiness ,80,0.06
+French Chardonnay - 90-94 Points,packed ,84,0.06
+French Chardonnay - 90-94 Points,freshness ,84,0.06
+French Chardonnay - 90-94 Points,creamy ,85,0.06
+French Chardonnay - 90-94 Points,balance ,86,0.06
+French Chardonnay - 90-94 Points,opulent ,92,0.07
+French Chardonnay - 90-94 Points,potential ,92,0.07
+French Chardonnay - 90-94 Points,soft ,93,0.07
+French Chardonnay - 90-94 Points,fruity ,95,0.07
+French Chardonnay - 90-94 Points,bright ,95,0.07
+French Chardonnay - 90-94 Points,apricot ,104,0.08
+French Chardonnay - 90-94 Points,peach ,105,0.08
+French Chardonnay - 90-94 Points,rounded ,110,0.08
+French Chardonnay - 90-94 Points,ready ,111,0.08
+French Chardonnay - 90-94 Points,concentrated ,116,0.09
+French Chardonnay - 90-94 Points,good ,116,0.09
+French Chardonnay - 90-94 Points,young ,128,0.09
+French Chardonnay - 90-94 Points,pear ,131,0.1
+French Chardonnay - 90-94 Points,steely ,133,0.1
+French Chardonnay - 90-94 Points,textured ,133,0.1
+French Chardonnay - 90-94 Points,intense ,139,0.1
+French Chardonnay - 90-94 Points,structured ,143,0.11
+French Chardonnay - 90-94 Points,balanced ,145,0.11
+French Chardonnay - 90-94 Points,delicious ,148,0.11
+French Chardonnay - 90-94 Points,fresh ,158,0.12
+French Chardonnay - 90-94 Points,generous ,165,0.12
+French Chardonnay - 90-94 Points,green ,167,0.12
+French Chardonnay - 90-94 Points,great ,173,0.13
+French Chardonnay - 90-94 Points,apple ,197,0.15
+French Chardonnay - 90-94 Points,richness ,203,0.15
+French Chardonnay - 90-94 Points,structure ,203,0.15
+French Chardonnay - 90-94 Points,minerality ,211,0.16
+French Chardonnay - 90-94 Points,tight ,234,0.17
+French Chardonnay - 90-94 Points,citrus ,246,0.18
+French Chardonnay - 90-94 Points,spice ,248,0.18
+French Chardonnay - 90-94 Points,toast ,267,0.2
+French Chardonnay - 90-94 Points,full ,287,0.21
+French Chardonnay - 90-94 Points,mineral ,302,0.22
+French Chardonnay - 90-94 Points,crisp ,308,0.23
+French Chardonnay - 90-94 Points,rich ,543,0.4
+French Chardonnay - 90-94 Points,ripe ,689,0.51
+French Chardonnay - 95-100 Points,steel ,8,0.06
+French Chardonnay - 95-100 Points,apricot ,8,0.06
+French Chardonnay - 95-100 Points,apples ,8,0.06
+French Chardonnay - 95-100 Points,delicious ,8,0.06
+French Chardonnay - 95-100 Points,considerable ,8,0.06
+French Chardonnay - 95-100 Points,complex ,8,0.06
+French Chardonnay - 95-100 Points,long ,8,0.06
+French Chardonnay - 95-100 Points,long-term ,8,0.06
+French Chardonnay - 95-100 Points,tropical ,8,0.06
+French Chardonnay - 95-100 Points,taut ,9,0.06
+French Chardonnay - 95-100 Points,density ,9,0.06
+French Chardonnay - 95-100 Points,lemon ,9,0.06
+French Chardonnay - 95-100 Points,balanced ,9,0.06
+French Chardonnay - 95-100 Points,pure ,10,0.07
+French Chardonnay - 95-100 Points,packed ,10,0.07
+French Chardonnay - 95-100 Points,apple ,10,0.07
+French Chardonnay - 95-100 Points,balance ,10,0.07
+French Chardonnay - 95-100 Points,beautiful ,11,0.08
+French Chardonnay - 95-100 Points,textured ,13,0.09
+French Chardonnay - 95-100 Points,freshness ,13,0.09
+French Chardonnay - 95-100 Points,concentration ,13,0.09
+French Chardonnay - 95-100 Points,potential ,13,0.09
+French Chardonnay - 95-100 Points,weight ,13,0.09
+French Chardonnay - 95-100 Points,beautifully ,13,0.09
+French Chardonnay - 95-100 Points,layers ,14,0.1
+French Chardonnay - 95-100 Points,young ,15,0.1
+French Chardonnay - 95-100 Points,steely ,16,0.11
+French Chardonnay - 95-100 Points,crisp ,17,0.12
+French Chardonnay - 95-100 Points,green ,18,0.12
+French Chardonnay - 95-100 Points,generous ,20,0.14
+French Chardonnay - 95-100 Points,full ,20,0.14
+French Chardonnay - 95-100 Points,impressive ,21,0.14
+French Chardonnay - 95-100 Points,dense ,21,0.14
+French Chardonnay - 95-100 Points,citrus ,22,0.15
+French Chardonnay - 95-100 Points,structured ,23,0.16
+French Chardonnay - 95-100 Points,power ,24,0.17
+French Chardonnay - 95-100 Points,toast ,24,0.17
+French Chardonnay - 95-100 Points,concentrated ,26,0.18
+French Chardonnay - 95-100 Points,minerality ,27,0.19
+French Chardonnay - 95-100 Points,spice ,28,0.19
+French Chardonnay - 95-100 Points,richness ,32,0.22
+French Chardonnay - 95-100 Points,tight ,33,0.23
+French Chardonnay - 95-100 Points,opulent ,33,0.23
+French Chardonnay - 95-100 Points,intense ,38,0.26
+French Chardonnay - 95-100 Points,powerful ,38,0.26
+French Chardonnay - 95-100 Points,mineral ,40,0.28
+French Chardonnay - 95-100 Points,great ,40,0.28
+French Chardonnay - 95-100 Points,structure ,43,0.3
+French Chardonnay - 95-100 Points,rich ,59,0.41
+French Chardonnay - 95-100 Points,ripe ,71,0.49
+French Chardonnay - All,round ,154,0.04
+French Chardonnay - All,apples ,163,0.05
+French Chardonnay - All,concentrated ,167,0.05
+French Chardonnay - All,balance ,182,0.05
+French Chardonnay - All,lively ,184,0.05
+French Chardonnay - All,weight ,186,0.05
+French Chardonnay - All,toasty ,189,0.05
+French Chardonnay - All,tangy ,197,0.06
+French Chardonnay - All,fruitiness ,198,0.06
+French Chardonnay - All,freshness ,199,0.06
+French Chardonnay - All,vanilla ,201,0.06
+French Chardonnay - All,structured ,217,0.06
+French Chardonnay - All,warm ,219,0.06
+French Chardonnay - All,intense ,220,0.06
+French Chardonnay - All,steely ,226,0.07
+French Chardonnay - All,young ,230,0.07
+French Chardonnay - All,apricot ,236,0.07
+French Chardonnay - All,smooth ,257,0.07
+French Chardonnay - All,lemon ,265,0.08
+French Chardonnay - All,textured ,266,0.08
+French Chardonnay - All,good ,283,0.08
+French Chardonnay - All,delicious ,283,0.08
+French Chardonnay - All,peach ,285,0.08
+French Chardonnay - All,generous ,285,0.08
+French Chardonnay - All,balanced ,299,0.09
+French Chardonnay - All,creamy ,308,0.09
+French Chardonnay - All,great ,310,0.09
+French Chardonnay - All,rounded ,320,0.09
+French Chardonnay - All,bright ,328,0.09
+French Chardonnay - All,richness ,346,0.1
+French Chardonnay - All,structure ,361,0.1
+French Chardonnay - All,attractive ,369,0.11
+French Chardonnay - All,minerality ,393,0.11
+French Chardonnay - All,light ,409,0.12
+French Chardonnay - All,pear ,415,0.12
+French Chardonnay - All,tight ,423,0.12
+French Chardonnay - All,green ,426,0.12
+French Chardonnay - All,fruity ,462,0.13
+French Chardonnay - All,ready ,470,0.14
+French Chardonnay - All,toast ,479,0.14
+French Chardonnay - All,spice ,495,0.14
+French Chardonnay - All,fresh ,564,0.16
+French Chardonnay - All,soft ,575,0.17
+French Chardonnay - All,full ,594,0.17
+French Chardonnay - All,mineral ,598,0.17
+French Chardonnay - All,apple ,683,0.2
+French Chardonnay - All,citrus ,694,0.2
+French Chardonnay - All,crisp ,886,0.25
+French Chardonnay - All,rich ,973,0.28
+French Chardonnay - All,ripe ,1522,0.44
