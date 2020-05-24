@@ -20,9 +20,9 @@ Requirements to install and implement:
 Scikit Learn, Tensorflow: Keras, Matplotlib, SQLalchemy, Pandas, Postgres, Tableau (Professional or Student version)
 
 Installing
-
-
-Say what the step will be
+1) DB_Create.ipynb
+	a) Edit code establishing connection to Postgres and personalize - DO NOT change database name.
+2) Open Tableau and open 
 
 Give the example
 And repeat
